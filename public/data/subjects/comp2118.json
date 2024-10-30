@@ -1,0 +1,132 @@
+{
+  "subject": {
+    "title": "Computer Organization and Assembly Language",
+    "subjectCode": "COMP2118",
+    "topics": [
+      {
+        "title": "Introduction to computer systems: Information is bits + context",
+        "slug": "introduction-to-computer-systems-information-is-bits-context"
+      },
+      {
+        "title": "programs are translated  by other programs into different forms",
+        "slug": "programs-are-translated-by-other-programs-into-different-forms"
+      },
+      {
+        "title": "it pays to understand how compilation systems  work",
+        "slug": "it-pays-to-understand-how-compilation-systems-work"
+      },
+      {
+        "title": "processors read and interpret instructions stored in memory",
+        "slug": "processors-read-and-interpret-instructions-stored-in-memory"
+      },
+      {
+        "title": "caches matter",
+        "slug": "caches-matter"
+      },
+      {
+        "title": "storage  devices form a hierarchy",
+        "slug": "storage-devices-form-a-hierarchy"
+      },
+      {
+        "title": "the operating system manages the hardware",
+        "slug": "the-operating-system-manages-the-hardware"
+      },
+      {
+        "title": "systems  communicate with other systems using networks",
+        "slug": "systems-communicate-with-other-systems-using-networks"
+      },
+      {
+        "title": "Representing and manipulating  information: information storage",
+        "slug": "representing-and-manipulating-information-information-storage"
+      },
+      {
+        "title": "integer representations",
+        "slug": "integer-representations"
+      },
+      {
+        "title": "integer arithmetic",
+        "slug": "integer-arithmetic"
+      },
+      {
+        "title": "floating  point",
+        "slug": "floating-point"
+      },
+      {
+        "title": "Machine-level representation of programs: a historical perspective",
+        "slug": "machine-level-representation-of-programs-a-historical-perspective"
+      },
+      {
+        "title": "program  encodings",
+        "slug": "program-encodings"
+      },
+      {
+        "title": "data formats",
+        "slug": "data-formats"
+      },
+      {
+        "title": "accessing information",
+        "slug": "accessing-information"
+      },
+      {
+        "title": "arithmetic and logical operations",
+        "slug": "arithmetic-and-logical-operations"
+      },
+      {
+        "title": "control",
+        "slug": "control"
+      },
+      {
+        "title": "procedures",
+        "slug": "procedures"
+      },
+      {
+        "title": "array allocation and access",
+        "slug": "array-allocation-and-access"
+      },
+      {
+        "title": "heterogeneous data structures",
+        "slug": "heterogeneous-data-structures"
+      },
+      {
+        "title": "putting it  together: understanding pointers",
+        "slug": "putting-it-together-understanding-pointers"
+      },
+      {
+        "title": "life in the real world: using the gdb debugger",
+        "slug": "life-in-the-real-world-using-the-gdb-debugger"
+      },
+      {
+        "title": "out of\u0002bounds memory references and buffer overflow",
+        "slug": "out-ofbounds-memory-references-and-buffer-overflow"
+      },
+      {
+        "title": "x86-64: extending ia32 to 64 bits",
+        "slug": "x86-64-extending-ia32-to-64-bits"
+      },
+      {
+        "title": "machine-level representations of floating-point programs",
+        "slug": "machine-level-representations-of-floating-point-programs"
+      },
+      {
+        "title": "Processor architecture: the Y86 instruction set architecture",
+        "slug": "processor-architecture-the-y86-instruction-set-architecture"
+      },
+      {
+        "title": "logic design and the Hardware Control Language (HCL)",
+        "slug": "logic-design-and-the-hardware-control-language-hcl"
+      },
+      {
+        "title": "sequential Y86 implementations",
+        "slug": "sequential-y86-implementations"
+      },
+      {
+        "title": "general principles of pipelining",
+        "slug": "general-principles-of-pipelining"
+      },
+      {
+        "title": "pipelined Y86  implementations",
+        "slug": "pipelined-y86-implementations"
+      }
+    ]
+  }
+}

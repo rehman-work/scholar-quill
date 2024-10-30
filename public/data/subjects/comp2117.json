@@ -1,0 +1,148 @@
+{
+  "subject": {
+    "title": "Data Structures",
+    "subjectCode": "COMP2117",
+    "topics": [
+      {
+        "title": "Abstract data types",
+        "slug": "abstract-data-types"
+      },
+      {
+        "title": "complexity analysis",
+        "slug": "complexity-analysis"
+      },
+      {
+        "title": "Big Oh notation",
+        "slug": "big-oh-notation"
+      },
+      {
+        "title": "Stacks (linked lists and array  implementations)",
+        "slug": "stacks-linked-lists-and-array-implementations"
+      },
+      {
+        "title": "Recursion and analyzing recursive algorithms",
+        "slug": "recursion-and-analyzing-recursive-algorithms"
+      },
+      {
+        "title": "divide and conquer  algorithms",
+        "slug": "divide-and-conquer-algorithms"
+      },
+      {
+        "title": "Sorting algorithms (selection",
+        "slug": "sorting-algorithms-selection"
+      },
+      {
+        "title": "insertion",
+        "slug": "insertion"
+      },
+      {
+        "title": "merge",
+        "slug": "merge"
+      },
+      {
+        "title": "quick",
+        "slug": "quick"
+      },
+      {
+        "title": "bubble",
+        "slug": "bubble"
+      },
+      {
+        "title": "heap",
+        "slug": "heap"
+      },
+      {
+        "title": "shell",
+        "slug": "shell"
+      },
+      {
+        "title": "radix",
+        "slug": "radix"
+      },
+      {
+        "title": "bucket)",
+        "slug": "bucket"
+      },
+      {
+        "title": "queue",
+        "slug": "queue"
+      },
+      {
+        "title": "dequeuer",
+        "slug": "dequeuer"
+      },
+      {
+        "title": "priority queues (linked and array implementations of  queues)",
+        "slug": "priority-queues-linked-and-array-implementations-of-queues"
+      },
+      {
+        "title": "linked list & its various types",
+        "slug": "linked-list-and-its-various-types"
+      },
+      {
+        "title": "sorted linked list",
+        "slug": "sorted-linked-list"
+      },
+      {
+        "title": "searching an unsorted array",
+        "slug": "searching-an-unsorted-array"
+      },
+      {
+        "title": "binary search for sorted arrays",
+        "slug": "binary-search-for-sorted-arrays"
+      },
+      {
+        "title": "hashing and indexing",
+        "slug": "hashing-and-indexing"
+      },
+      {
+        "title": "open addressing and chaining",
+        "slug": "open-addressing-and-chaining"
+      },
+      {
+        "title": "trees and tree traversals",
+        "slug": "trees-and-tree-traversals"
+      },
+      {
+        "title": "binary search trees",
+        "slug": "binary-search-trees"
+      },
+      {
+        "title": "heaps",
+        "slug": "heaps"
+      },
+      {
+        "title": "M-way tress",
+        "slug": "m-way-tress"
+      },
+      {
+        "title": "balanced trees",
+        "slug": "balanced-trees"
+      },
+      {
+        "title": "graphs",
+        "slug": "graphs"
+      },
+      {
+        "title": "breadth-first and depth-first traversal",
+        "slug": "breadth-first-and-depth-first-traversal"
+      },
+      {
+        "title": "topological order",
+        "slug": "topological-order"
+      },
+      {
+        "title": "shortest path",
+        "slug": "shortest-path"
+      },
+      {
+        "title": "adjacency matrix  and adjacency list implementations",
+        "slug": "adjacency-matrix-and-adjacency-list-implementations"
+      },
+      {
+        "title": "memory management and garbage collection",
+        "slug": "memory-management-and-garbage-collection"
+      }
+    ]
+  }
+}

@@ -1,0 +1,360 @@
+{
+  "subject": {
+    "title": "Applications of Information and Communication Technologies",
+    "subjectCode": "COMP1116",
+    "topics": [
+      {
+        "title": "Introduction to Information and Communication Technologies  Components of Information and Communication Technologies (basis of hardware",
+        "slug": "introduction-to-information-and-communication-technologies-components-of-information-and-communication-technologies-basis-of-hardware"
+      },
+      {
+        "title": "software",
+        "slug": "software"
+      },
+      {
+        "title": "ICT platforms",
+        "slug": "ict-platforms"
+      },
+      {
+        "title": "networks",
+        "slug": "networks"
+      },
+      {
+        "title": "local",
+        "slug": "local"
+      },
+      {
+        "title": "and cloud data storage etc",
+        "slug": "and-cloud-data-storage-etc"
+      },
+      {
+        "title": ")  Scope of Information and Communication Technologies (use of ICT in education",
+        "slug": "scope-of-information-and-communication-technologies-use-of-ict-in-education"
+      },
+      {
+        "title": "business",
+        "slug": "business"
+      },
+      {
+        "title": "governance",
+        "slug": "governance"
+      },
+      {
+        "title": "health care",
+        "slug": "health-care"
+      },
+      {
+        "title": "digital media and entertainment",
+        "slug": "digital-media-and-entertainment"
+      },
+      {
+        "title": "etc",
+        "slug": "etc"
+      },
+      {
+        "title": ")  Emerging technologies and future trends",
+        "slug": "emerging-technologies-and-future-trends"
+      },
+      {
+        "title": "Basic ICT Productivity Tools:  Effective use of popular search engines (e",
+        "slug": "basic-ict-productivity-tools-effective-use-of-popular-search-engines-e"
+      },
+      {
+        "title": "g",
+        "slug": "g"
+      },
+      {
+        "title": "Google",
+        "slug": "google"
+      },
+      {
+        "title": "Bing",
+        "slug": "bing"
+      },
+      {
+        "title": "etc",
+        "slug": "etc"
+      },
+      {
+        "title": ") to explore World Wide  Web",
+        "slug": "to-explore-world-wide-web"
+      },
+      {
+        "title": " Formal Communication Tools and etiquettes (Gmail",
+        "slug": "formal-communication-tools-and-etiquettes-gmail"
+      },
+      {
+        "title": "Microsoft Outlook",
+        "slug": "microsoft-outlook"
+      },
+      {
+        "title": "etc",
+        "slug": "etc"
+      },
+      {
+        "title": ")",
+        "slug": ""
+      },
+      {
+        "title": " Microsoft Office Suites (word",
+        "slug": "microsoft-office-suites-word"
+      },
+      {
+        "title": "Excel",
+        "slug": "excel"
+      },
+      {
+        "title": "PowerPoint)",
+        "slug": "powerpoint"
+      },
+      {
+        "title": " Google Workspace (Google Docs",
+        "slug": "google-workspace-google-docs"
+      },
+      {
+        "title": "Sheets",
+        "slug": "sheets"
+      },
+      {
+        "title": "Slides)",
+        "slug": "slides"
+      },
+      {
+        "title": " Dropbox (Cloud Storage and file sharing)",
+        "slug": "dropbox-cloud-storage-and-file-sharing"
+      },
+      {
+        "title": "Google Drive (Cloud storage with Google Docs  integration) and Microsoft OneDrive (Cloud storage with Microsoft Office Integration)",
+        "slug": "google-drive-cloud-storage-with-google-docs-integration-and-microsoft-onedrive-cloud-storage-with-microsoft-office-integration"
+      },
+      {
+        "title": " Evernote (Note-taking and organization applications) and OneNote (Microsoft’s digital  notebook for capturing and organizing ideas)",
+        "slug": "evernote-note-taking-and-organization-applications-and-onenote-microsofts-digital-notebook-for-capturing-and-organizing-ideas"
+      },
+      {
+        "title": " Video conferencing (Google Meet",
+        "slug": "video-conferencing-google-meet"
+      },
+      {
+        "title": "Microsoft Teams",
+        "slug": "microsoft-teams"
+      },
+      {
+        "title": "Zoom",
+        "slug": "zoom"
+      },
+      {
+        "title": "etc",
+        "slug": "etc"
+      },
+      {
+        "title": ")",
+        "slug": ""
+      },
+      {
+        "title": " Social media applications (Linkedln",
+        "slug": "social-media-applications-linkedln"
+      },
+      {
+        "title": "Facebook",
+        "slug": "facebook"
+      },
+      {
+        "title": "Instagram",
+        "slug": "instagram"
+      },
+      {
+        "title": "etc",
+        "slug": "etc"
+      },
+      {
+        "title": ")",
+        "slug": ""
+      },
+      {
+        "title": "ICT in Education :  Working with learning management systems (Moodle",
+        "slug": "ict-in-education-working-with-learning-management-systems-moodle"
+      },
+      {
+        "title": "Canvas",
+        "slug": "canvas"
+      },
+      {
+        "title": "Google Classrooms",
+        "slug": "google-classrooms"
+      },
+      {
+        "title": "etc",
+        "slug": "etc"
+      },
+      {
+        "title": ")",
+        "slug": ""
+      },
+      {
+        "title": " Sources of online education courses (Coursera",
+        "slug": "sources-of-online-education-courses-coursera"
+      },
+      {
+        "title": "edX",
+        "slug": "edx"
+      },
+      {
+        "title": "Udemy",
+        "slug": "udemy"
+      },
+      {
+        "title": "Khan Acadmey",
+        "slug": "khan-acadmey"
+      },
+      {
+        "title": "etc",
+        "slug": "etc"
+      },
+      {
+        "title": ")",
+        "slug": ""
+      },
+      {
+        "title": " Interactive multimedia and virtual classrooms",
+        "slug": "interactive-multimedia-and-virtual-classrooms"
+      },
+      {
+        "title": "ICT in Health and Well-being:  Health and fitness tracking devices and applications (Google Fit",
+        "slug": "ict-in-health-and-well-being-health-and-fitness-tracking-devices-and-applications-google-fit"
+      },
+      {
+        "title": "Samsung Health",
+        "slug": "samsung-health"
+      },
+      {
+        "title": "Apple",
+        "slug": "apple"
+      },
+      {
+        "title": "Health Xiaomi",
+        "slug": "health-xiaomi"
+      },
+      {
+        "title": "Mi Band",
+        "slug": "mi-band"
+      },
+      {
+        "title": "Runkeeper",
+        "slug": "runkeeper"
+      },
+      {
+        "title": "etc",
+        "slug": "etc"
+      },
+      {
+        "title": ")",
+        "slug": ""
+      },
+      {
+        "title": " Telemedicine and online health consultations (OLADOC",
+        "slug": "telemedicine-and-online-health-consultations-oladoc"
+      },
+      {
+        "title": "Sehat Kahani",
+        "slug": "sehat-kahani"
+      },
+      {
+        "title": "Marham",
+        "slug": "marham"
+      },
+      {
+        "title": "etc",
+        "slug": "etc"
+      },
+      {
+        "title": ")",
+        "slug": ""
+      },
+      {
+        "title": "ICT in Personal Finance and Shopping:  Online banking and financial management tools (",
+        "slug": "ict-in-personal-finance-and-shopping-online-banking-and-financial-management-tools"
+      },
+      {
+        "title": "lazzCash",
+        "slug": "lazzcash"
+      },
+      {
+        "title": "Easypaisa",
+        "slug": "easypaisa"
+      },
+      {
+        "title": "Zong PayMax",
+        "slug": "zong-paymax"
+      },
+      {
+        "title": "1LINK and MNET",
+        "slug": "1link-and-mnet"
+      },
+      {
+        "title": "keenu Wallet",
+        "slug": "keenu-wallet"
+      },
+      {
+        "title": "etc",
+        "slug": "etc"
+      },
+      {
+        "title": ")",
+        "slug": ""
+      },
+      {
+        "title": " E-commerce platforms (Darazpk",
+        "slug": "e-commerce-platforms-darazpk"
+      },
+      {
+        "title": "Telemart",
+        "slug": "telemart"
+      },
+      {
+        "title": "Shophive",
+        "slug": "shophive"
+      },
+      {
+        "title": "etc",
+        "slug": "etc"
+      },
+      {
+        "title": ")",
+        "slug": ""
+      },
+      {
+        "title": "Digital Citizenship and Online Etiquette:  Digital identity and online reputation",
+        "slug": "digital-citizenship-and-online-etiquette-digital-identity-and-online-reputation"
+      },
+      {
+        "title": " Netiquette and respectful online communication",
+        "slug": "netiquette-and-respectful-online-communication"
+      },
+      {
+        "title": " Cyberbullying and online harassment",
+        "slug": "cyberbullying-and-online-harassment"
+      },
+      {
+        "title": "Ethical Considerations in Use of ICT Platforms and Tools:  Intellectual property and copyright issues",
+        "slug": "ethical-considerations-in-use-of-ict-platforms-and-tools-intellectual-property-and-copyright-issues"
+      },
+      {
+        "title": " Ensuring originality in content creation by avoiding plagiarism and unauthorized use of  information sources",
+        "slug": "ensuring-originality-in-content-creation-by-avoiding-plagiarism-and-unauthorized-use-of-information-sources"
+      },
+      {
+        "title": " Content accuracy and integrity (ensuring that the content shared through ICT platforms is  free from misinformation",
+        "slug": "content-accuracy-and-integrity-ensuring-that-the-content-shared-through-ict-platforms-is-free-from-misinformation"
+      },
+      {
+        "title": "fake news",
+        "slug": "fake-news"
+      },
+      {
+        "title": "and manipulation)",
+        "slug": "and-manipulation"
+      }
+    ]
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "subject": {
+    "title": "Applied Physics",
+    "subjectCode": "PHYS1124",
+    "topics": [
+      {
+        "title": "Electrostatics and Magnetism: Coulombs Law",
+        "slug": "electrostatics-and-magnetism-coulombs-law"
+      },
+      {
+        "title": "Electrostatic potential energy of discrete  charges",
+        "slug": "electrostatic-potential-energy-of-discrete-charges"
+      },
+      {
+        "title": "Continuous charge distribution",
+        "slug": "continuous-charge-distribution"
+      },
+      {
+        "title": "Gauss‘s Law",
+        "slug": "gausss-law"
+      },
+      {
+        "title": "Electric field around conductors",
+        "slug": "electric-field-around-conductors"
+      },
+      {
+        "title": "Dielectric Magnetic fields",
+        "slug": "dielectric-magnetic-fields"
+      },
+      {
+        "title": "Magnetic force on current",
+        "slug": "magnetic-force-on-current"
+      },
+      {
+        "title": "Hall effect",
+        "slug": "hall-effect"
+      },
+      {
+        "title": "Biot- Savart Law",
+        "slug": "biot-savart-law"
+      },
+      {
+        "title": "Ampere‘s  Law",
+        "slug": "amperes-law"
+      },
+      {
+        "title": "Fields of rings and coils",
+        "slug": "fields-of-rings-and-coils"
+      },
+      {
+        "title": "Magnetic dipole",
+        "slug": "magnetic-dipole"
+      },
+      {
+        "title": "Diamagnetism",
+        "slug": "diamagnetism"
+      },
+      {
+        "title": "Para magnetism and  Ferromagnetism",
+        "slug": "para-magnetism-and-ferromagnetism"
+      },
+      {
+        "title": "Waves and Oscillations: Reflection and Refraction of light waves",
+        "slug": "waves-and-oscillations-reflection-and-refraction-of-light-waves"
+      },
+      {
+        "title": "Total internal reflection",
+        "slug": "total-internal-reflection"
+      },
+      {
+        "title": "Double slit interference",
+        "slug": "double-slit-interference"
+      },
+      {
+        "title": "Interference from thin films",
+        "slug": "interference-from-thin-films"
+      },
+      {
+        "title": "Diffraction",
+        "slug": "diffraction"
+      },
+      {
+        "title": "Polarization of  electromagnetic waves",
+        "slug": "polarization-of-electromagnetic-waves"
+      },
+      {
+        "title": "Semi-Conductors: Semi-Conductors Energy levels in a semi-conductor",
+        "slug": "semi-conductors-semi-conductors-energy-levels-in-a-semi-conductor"
+      },
+      {
+        "title": "Hole concept",
+        "slug": "hole-concept"
+      },
+      {
+        "title": "Intrinsic  and Extrinsic regions",
+        "slug": "intrinsic-and-extrinsic-regions"
+      },
+      {
+        "title": "PNP",
+        "slug": "pnp"
+      },
+      {
+        "title": "NPN junction Transistor",
+        "slug": "npn-junction-transistor"
+      },
+      {
+        "title": "LEDs Modern Physics",
+        "slug": "leds-modern-physics"
+      },
+      {
+        "title": "Inadequacy of  classical physics",
+        "slug": "inadequacy-of-classical-physics"
+      },
+      {
+        "title": "Plank‘s explanations of black body radiation",
+        "slug": "planks-explanations-of-black-body-radiation"
+      },
+      {
+        "title": "Modern physics: Photo electric effect",
+        "slug": "modern-physics-photo-electric-effect"
+      },
+      {
+        "title": "Compton effect",
+        "slug": "compton-effect"
+      },
+      {
+        "title": "Bohr‘s theory of Hydrogen atom",
+        "slug": "bohrs-theory-of-hydrogen-atom"
+      },
+      {
+        "title": "Nuclear stability and radioactivity",
+        "slug": "nuclear-stability-and-radioactivity"
+      },
+      {
+        "title": "Nuclear Physics: Alpha decay",
+        "slug": "nuclear-physics-alpha-decay"
+      },
+      {
+        "title": "Beta decay",
+        "slug": "beta-decay"
+      },
+      {
+        "title": "Gamma decay attenuation",
+        "slug": "gamma-decay-attenuation"
+      },
+      {
+        "title": "Fission",
+        "slug": "fission"
+      },
+      {
+        "title": "Energy release",
+        "slug": "energy-release"
+      },
+      {
+        "title": "Nuclear Fusion  List of Experiments: (At least 3 experiments should be performed)",
+        "slug": "nuclear-fusion-list-of-experiments-at-least-3-experiments-should-be-performed"
+      },
+      {
+        "title": "Measuring moments of  inertia of different bodies",
+        "slug": "measuring-moments-of-inertia-of-different-bodies"
+      },
+      {
+        "title": "disc",
+        "slug": "disc"
+      },
+      {
+        "title": "hollow and solid cylinders",
+        "slug": "hollow-and-solid-cylinders"
+      },
+      {
+        "title": "The Harmonic Oscillation of Helical  springs-parallel and series connection of spring Value of g using a compound pendulum or  simple pendulum",
+        "slug": "the-harmonic-oscillation-of-helical-springs-parallel-and-series-connection-of-spring-value-of-g-using-a-compound-pendulum-or-simple-pendulum"
+      },
+      {
+        "title": "Verification of Ohm’s law",
+        "slug": "verification-of-ohms-law"
+      },
+      {
+        "title": "Determine the speed of sound using  Sonometer/Air column",
+        "slug": "determine-the-speed-of-sound-using-sonometerair-column"
+      },
+      {
+        "title": "Determine the refractive index with help of prism/glass plate",
+        "slug": "determine-the-refractive-index-with-help-of-prismglass-plate"
+      }
+    ]
+  }
+}

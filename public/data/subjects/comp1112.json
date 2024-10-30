@@ -1,0 +1,88 @@
+{
+  "subject": {
+    "title": "Programming Fundamentals",
+    "subjectCode": "COMP1112",
+    "topics": [
+      {
+        "title": "Introduction to problem solving",
+        "slug": "introduction-to-problem-solving"
+      },
+      {
+        "title": "a brief review of Von-Neumann architecture",
+        "slug": "a-brief-review-of-von-neumann-architecture"
+      },
+      {
+        "title": "Introduction to programming",
+        "slug": "introduction-to-programming"
+      },
+      {
+        "title": "role of compiler and linker",
+        "slug": "role-of-compiler-and-linker"
+      },
+      {
+        "title": "introduction to algorithms",
+        "slug": "introduction-to-algorithms"
+      },
+      {
+        "title": "basic data types and variables",
+        "slug": "basic-data-types-and-variables"
+      },
+      {
+        "title": "input/output constructs",
+        "slug": "inputoutput-constructs"
+      },
+      {
+        "title": "arithmetic",
+        "slug": "arithmetic"
+      },
+      {
+        "title": "comparison and  logical operators",
+        "slug": "comparison-and-logical-operators"
+      },
+      {
+        "title": "conditional statements and execution flow for conditional statements",
+        "slug": "conditional-statements-and-execution-flow-for-conditional-statements"
+      },
+      {
+        "title": "repetitive statements and execution flow for repetitive statements",
+        "slug": "repetitive-statements-and-execution-flow-for-repetitive-statements"
+      },
+      {
+        "title": "lists and their memory  organization",
+        "slug": "lists-and-their-memory-organization"
+      },
+      {
+        "title": "multi-dimensional lists",
+        "slug": "multi-dimensional-lists"
+      },
+      {
+        "title": "introduction to modular programming",
+        "slug": "introduction-to-modular-programming"
+      },
+      {
+        "title": "function  definition and calling",
+        "slug": "function-definition-and-calling"
+      },
+      {
+        "title": "stack rolling and unrolling",
+        "slug": "stack-rolling-and-unrolling"
+      },
+      {
+        "title": "string and string operations",
+        "slug": "string-and-string-operations"
+      },
+      {
+        "title": "pointers/references",
+        "slug": "pointersreferences"
+      },
+      {
+        "title": "static and dynamic memory allocation",
+        "slug": "static-and-dynamic-memory-allocation"
+      },
+      {
+        "title": "File I/O operations",
+        "slug": "file-io-operations"
+      }
+    ]
+  }
+}

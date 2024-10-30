@@ -1,0 +1,280 @@
+{
+  "subject": {
+    "title": "Linear Algebra",
+    "subjectCode": "MATH3114",
+    "topics": [
+      {
+        "title": "Vectors: Vectors In Rn and Cn",
+        "slug": "vectors-vectors-in-rn-and-cn"
+      },
+      {
+        "title": "Linear Combination of Vectors",
+        "slug": "linear-combination-of-vectors"
+      },
+      {
+        "title": "Dot (Inner) Product",
+        "slug": "dot-inner-product"
+      },
+      {
+        "title": "Angle  between Vectors",
+        "slug": "angle-between-vectors"
+      },
+      {
+        "title": "Projections",
+        "slug": "projections"
+      },
+      {
+        "title": "Cauchy-Schwarz Inequality",
+        "slug": "cauchy-schwarz-inequality"
+      },
+      {
+        "title": "Minkowski‟s Inequality",
+        "slug": "minkowskis-inequality"
+      },
+      {
+        "title": "Hyperplanes",
+        "slug": "hyperplanes"
+      },
+      {
+        "title": "Lines",
+        "slug": "lines"
+      },
+      {
+        "title": "Vectors in (Spatial Vectors)",
+        "slug": "vectors-in-spatial-vectors"
+      },
+      {
+        "title": "Cross Product",
+        "slug": "cross-product"
+      },
+      {
+        "title": "Lagrange‟s Identity",
+        "slug": "lagranges-identity"
+      },
+      {
+        "title": "Matrix Operations: Matrices",
+        "slug": "matrix-operations-matrices"
+      },
+      {
+        "title": "Trace",
+        "slug": "trace"
+      },
+      {
+        "title": "Powers of Matrices",
+        "slug": "powers-of-matrices"
+      },
+      {
+        "title": "Polynomials in Matrices",
+        "slug": "polynomials-in-matrices"
+      },
+      {
+        "title": "Invertible  Matrices",
+        "slug": "invertible-matrices"
+      },
+      {
+        "title": "Orthogonal Matrices",
+        "slug": "orthogonal-matrices"
+      },
+      {
+        "title": "Normal Matrices",
+        "slug": "normal-matrices"
+      },
+      {
+        "title": "Hermitian Matrices",
+        "slug": "hermitian-matrices"
+      },
+      {
+        "title": "Unitary Matrices",
+        "slug": "unitary-matrices"
+      },
+      {
+        "title": "Block  Matrices",
+        "slug": "block-matrices"
+      },
+      {
+        "title": "Systems of Linear Equations: Homogeneous and Non- Homogeneous System of Linear Equations and its Solutions",
+        "slug": "systems-of-linear-equations-homogeneous-and-non-homogeneous-system-of-linear-equations-and-its-solutions"
+      },
+      {
+        "title": "Equivalent Systems",
+        "slug": "equivalent-systems"
+      },
+      {
+        "title": "Elementary Operations",
+        "slug": "elementary-operations"
+      },
+      {
+        "title": "Gaussian Elimination",
+        "slug": "gaussian-elimination"
+      },
+      {
+        "title": "Echelon and Reduced Echelon Forms",
+        "slug": "echelon-and-reduced-echelon-forms"
+      },
+      {
+        "title": "Row Equivalence",
+        "slug": "row-equivalence"
+      },
+      {
+        "title": "Elementary Matrices",
+        "slug": "elementary-matrices"
+      },
+      {
+        "title": "Lu  Decomposition",
+        "slug": "lu-decomposition"
+      },
+      {
+        "title": "Determinants: Determinants",
+        "slug": "determinants-determinants"
+      },
+      {
+        "title": "Properties of Determinants",
+        "slug": "properties-of-determinants"
+      },
+      {
+        "title": "Minors and Cofactors",
+        "slug": "minors-and-cofactors"
+      },
+      {
+        "title": "Classical Adjoint",
+        "slug": "classical-adjoint"
+      },
+      {
+        "title": "Cramer‟s Rule",
+        "slug": "cramers-rule"
+      },
+      {
+        "title": "Principal Minors",
+        "slug": "principal-minors"
+      },
+      {
+        "title": "Block Matrices and Determinants",
+        "slug": "block-matrices-and-determinants"
+      },
+      {
+        "title": "Evaluation of  Determinants and Inverses Using Row Operations Vector Spaces: Introduction to Vector Spaces",
+        "slug": "evaluation-of-determinants-and-inverses-using-row-operations-vector-spaces-introduction-to-vector-spaces"
+      },
+      {
+        "title": "Linear Combinations",
+        "slug": "linear-combinations"
+      },
+      {
+        "title": "Spanning Sets",
+        "slug": "spanning-sets"
+      },
+      {
+        "title": "Subspaces",
+        "slug": "subspaces"
+      },
+      {
+        "title": "Linear Dependence and Independence",
+        "slug": "linear-dependence-and-independence"
+      },
+      {
+        "title": "Basis and Dimension",
+        "slug": "basis-and-dimension"
+      },
+      {
+        "title": "Rank of Matrices",
+        "slug": "rank-of-matrices"
+      },
+      {
+        "title": "Direct Sums",
+        "slug": "direct-sums"
+      },
+      {
+        "title": "Coordinate Vectors",
+        "slug": "coordinate-vectors"
+      },
+      {
+        "title": "Eigenvalues and Eigenvectors: Characteristic Polynomial",
+        "slug": "eigenvalues-and-eigenvectors-characteristic-polynomial"
+      },
+      {
+        "title": "Cayley-Hamilton Theorem",
+        "slug": "cayley-hamilton-theorem"
+      },
+      {
+        "title": "Eigenvalues and Eigenvectors",
+        "slug": "eigenvalues-and-eigenvectors"
+      },
+      {
+        "title": "Diagonalizable Matrices",
+        "slug": "diagonalizable-matrices"
+      },
+      {
+        "title": "Diagonalization",
+        "slug": "diagonalization"
+      },
+      {
+        "title": "Symmetric Matrices",
+        "slug": "symmetric-matrices"
+      },
+      {
+        "title": "Minimal Polynomial",
+        "slug": "minimal-polynomial"
+      },
+      {
+        "title": "Linear Transformations: Introduction to Linear Transformations",
+        "slug": "linear-transformations-introduction-to-linear-transformations"
+      },
+      {
+        "title": "Kernel",
+        "slug": "kernel"
+      },
+      {
+        "title": "and Image of a  Linear Transformations",
+        "slug": "and-image-of-a-linear-transformations"
+      },
+      {
+        "title": "Rank and Nullity Theorem",
+        "slug": "rank-and-nullity-theorem"
+      },
+      {
+        "title": "Singular and Nonsingular Linear  Mappings",
+        "slug": "singular-and-nonsingular-linear-mappings"
+      },
+      {
+        "title": "Isomorphisms",
+        "slug": "isomorphisms"
+      },
+      {
+        "title": "Matrix Representations of a Linear Transformation",
+        "slug": "matrix-representations-of-a-linear-transformation"
+      },
+      {
+        "title": "Change of Basis",
+        "slug": "change-of-basis"
+      },
+      {
+        "title": "Similar Matrices Inner Product Spaces: Definition",
+        "slug": "similar-matrices-inner-product-spaces-definition"
+      },
+      {
+        "title": "Orthonormal Bases",
+        "slug": "orthonormal-bases"
+      },
+      {
+        "title": "The Concept of Length",
+        "slug": "the-concept-of-length"
+      },
+      {
+        "title": "Angle",
+        "slug": "angle"
+      },
+      {
+        "title": "and  Distance",
+        "slug": "and-distance"
+      },
+      {
+        "title": "Some Inequalities Related to Inner Product Spaces",
+        "slug": "some-inequalities-related-to-inner-product-spaces"
+      },
+      {
+        "title": "Gram Schmidt's Process of  Normalization",
+        "slug": "gram-schmidts-process-of-normalization"
+      }
+    ]
+  }
+}

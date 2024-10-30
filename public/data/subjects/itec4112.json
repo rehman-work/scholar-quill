@@ -1,0 +1,144 @@
+{
+  "subject": {
+    "title": "Professional Practices",
+    "subjectCode": "ITEC4112",
+    "topics": [
+      {
+        "title": "Historical",
+        "slug": "historical"
+      },
+      {
+        "title": "social",
+        "slug": "social"
+      },
+      {
+        "title": "and economic context of Computing (software engineering",
+        "slug": "and-economic-context-of-computing-software-engineering"
+      },
+      {
+        "title": "Computer  Science",
+        "slug": "computer-science"
+      },
+      {
+        "title": "Information Technology)",
+        "slug": "information-technology"
+      },
+      {
+        "title": "Definitions of Computing (software engineering",
+        "slug": "definitions-of-computing-software-engineering"
+      },
+      {
+        "title": "Computer Science",
+        "slug": "computer-science"
+      },
+      {
+        "title": "Information Technology) subject areas and professional activities",
+        "slug": "information-technology-subject-areas-and-professional-activities"
+      },
+      {
+        "title": "professional societies",
+        "slug": "professional-societies"
+      },
+      {
+        "title": "professional ethics",
+        "slug": "professional-ethics"
+      },
+      {
+        "title": "professional competency and life-long learning",
+        "slug": "professional-competency-and-life-long-learning"
+      },
+      {
+        "title": "uses",
+        "slug": "uses"
+      },
+      {
+        "title": "misuses",
+        "slug": "misuses"
+      },
+      {
+        "title": "and risks of software",
+        "slug": "and-risks-of-software"
+      },
+      {
+        "title": "information security and privacy",
+        "slug": "information-security-and-privacy"
+      },
+      {
+        "title": "business practices and  the economics of software",
+        "slug": "business-practices-and-the-economics-of-software"
+      },
+      {
+        "title": "intellectual property and software law (cyber law)",
+        "slug": "intellectual-property-and-software-law-cyber-law"
+      },
+      {
+        "title": "social  responsibilities",
+        "slug": "social-responsibilities"
+      },
+      {
+        "title": "software related contracts",
+        "slug": "software-related-contracts"
+      },
+      {
+        "title": "Software house organization",
+        "slug": "software-house-organization"
+      },
+      {
+        "title": "Intellectual Property  Rights",
+        "slug": "intellectual-property-rights"
+      },
+      {
+        "title": "The Framework of Employee Relations Law and Changing Management Practices",
+        "slug": "the-framework-of-employee-relations-law-and-changing-management-practices"
+      },
+      {
+        "title": "Human Resource Management and IT",
+        "slug": "human-resource-management-and-it"
+      },
+      {
+        "title": "Health and Safety at Work",
+        "slug": "health-and-safety-at-work"
+      },
+      {
+        "title": "Software Liability",
+        "slug": "software-liability"
+      },
+      {
+        "title": "Liability and Practice",
+        "slug": "liability-and-practice"
+      },
+      {
+        "title": "Computer Misuse and the Criminal Law",
+        "slug": "computer-misuse-and-the-criminal-law"
+      },
+      {
+        "title": "Regulation and Control of  Personal Information",
+        "slug": "regulation-and-control-of-personal-information"
+      },
+      {
+        "title": "Overview of the British Computer Society Code of Conduct",
+        "slug": "overview-of-the-british-computer-society-code-of-conduct"
+      },
+      {
+        "title": "IEEE Code of Ethics",
+        "slug": "ieee-code-of-ethics"
+      },
+      {
+        "title": "ACM Code of Ethics and Professional Conduct",
+        "slug": "acm-code-of-ethics-and-professional-conduct"
+      },
+      {
+        "title": "ACM/IEEE Software  Engineering Code of Ethics and Professional Practice",
+        "slug": "acmieee-software-engineering-code-of-ethics-and-professional-practice"
+      },
+      {
+        "title": "Accountability and Auditing",
+        "slug": "accountability-and-auditing"
+      },
+      {
+        "title": "Social  Application of Ethics",
+        "slug": "social-application-of-ethics"
+      }
+    ]
+  }
+}

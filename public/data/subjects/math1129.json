@@ -1,0 +1,140 @@
+{
+  "subject": {
+    "title": "Calculus and Analytic Geometry",
+    "subjectCode": "MATH1129",
+    "topics": [
+      {
+        "title": "Limits and Continuity",
+        "slug": "limits-and-continuity"
+      },
+      {
+        "title": "Introduction to functions",
+        "slug": "introduction-to-functions"
+      },
+      {
+        "title": "Introduction to limits",
+        "slug": "introduction-to-limits"
+      },
+      {
+        "title": "Techniques of funding  limits",
+        "slug": "techniques-of-funding-limits"
+      },
+      {
+        "title": "Indeterminate forms of limits",
+        "slug": "indeterminate-forms-of-limits"
+      },
+      {
+        "title": "Continuous and discontinuous functions and their  applications",
+        "slug": "continuous-and-discontinuous-functions-and-their-applications"
+      },
+      {
+        "title": "Differential calculus",
+        "slug": "differential-calculus"
+      },
+      {
+        "title": "Concept and idea of differentiation",
+        "slug": "concept-and-idea-of-differentiation"
+      },
+      {
+        "title": "Geometrical and  Physical meaning of derivatives",
+        "slug": "geometrical-and-physical-meaning-of-derivatives"
+      },
+      {
+        "title": "Rules of differentiation",
+        "slug": "rules-of-differentiation"
+      },
+      {
+        "title": "Techniques of differentiation",
+        "slug": "techniques-of-differentiation"
+      },
+      {
+        "title": "Rates  of change",
+        "slug": "rates-of-change"
+      },
+      {
+        "title": "Tangents and Normals lines",
+        "slug": "tangents-and-normals-lines"
+      },
+      {
+        "title": "Chain rule",
+        "slug": "chain-rule"
+      },
+      {
+        "title": "implicit differentiation",
+        "slug": "implicit-differentiation"
+      },
+      {
+        "title": "linear  approximation",
+        "slug": "linear-approximation"
+      },
+      {
+        "title": "Applications of differentiation",
+        "slug": "applications-of-differentiation"
+      },
+      {
+        "title": "Extreme value functions",
+        "slug": "extreme-value-functions"
+      },
+      {
+        "title": "Mean value  theorems",
+        "slug": "mean-value-theorems"
+      },
+      {
+        "title": "Maxima and Minima of a function for single-variable",
+        "slug": "maxima-and-minima-of-a-function-for-single-variable"
+      },
+      {
+        "title": "Concavity",
+        "slug": "concavity"
+      },
+      {
+        "title": "Integral calculus",
+        "slug": "integral-calculus"
+      },
+      {
+        "title": "Concept and idea of Integration",
+        "slug": "concept-and-idea-of-integration"
+      },
+      {
+        "title": "Indefinite Integrals",
+        "slug": "indefinite-integrals"
+      },
+      {
+        "title": "Techniques of integration",
+        "slug": "techniques-of-integration"
+      },
+      {
+        "title": "Riemann  sums and Definite Integrals",
+        "slug": "riemann-sums-and-definite-integrals"
+      },
+      {
+        "title": "Applications of definite integrals",
+        "slug": "applications-of-definite-integrals"
+      },
+      {
+        "title": "Improper integral",
+        "slug": "improper-integral"
+      },
+      {
+        "title": "Applications  of Integration",
+        "slug": "applications-of-integration"
+      },
+      {
+        "title": "Area under the curve",
+        "slug": "area-under-the-curve"
+      },
+      {
+        "title": "Analytical Geometry",
+        "slug": "analytical-geometry"
+      },
+      {
+        "title": "Straight lines in R3",
+        "slug": "straight-lines-in-r3"
+      },
+      {
+        "title": "Equations for  planes",
+        "slug": "equations-for-planes"
+      }
+    ]
+  }
+}

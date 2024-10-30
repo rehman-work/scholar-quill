@@ -1,0 +1,865 @@
+[
+  {
+    "title": "Bachelor of Science in Computer Science",
+    "degreeCode": "BSCS",
+    "description": "Master computing and software development for a tech career.",
+    "logo": "https://ph-files.imgix.net/6a6e20b6-c5ea-4803-ba2b-d2c8c806783a.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=48&h=48&fit=max&dpr=1",
+    "semesters": [
+      {
+        "semester_no": "01",
+        "semester_desc": "Introduction to core computing and foundational courses.",
+        "subjects": [
+          {
+            "title": "Programming Fundamentals",
+            "subjectCode": "COMP1112",
+            "logo": "https://example.com/logo1.png"
+          },
+          {
+            "title": "Applications of ICT",
+            "subjectCode": "COMP1116",
+            "logo": "https://example.com/logo2.png"
+          },
+          {
+            "title": "Calculus and Analytic Geometry",
+            "subjectCode": "MATH1129",
+            "logo": "https://example.com/logo3.png"
+          },
+          {
+            "title": "Functional English",
+            "subjectCode": "ENGL1114",
+            "logo": "https://example.com/logo4.png"
+          },
+          {
+            "title": "Applied Physics",
+            "subjectCode": "PHYS1124",
+            "logo": "https://example.com/logo5.png"
+          },
+          {
+            "title": "Islamic Studies / Ethics",
+            "subjectCode": "ISLA1111/HUMN1111",
+            "logo": "https://example.com/logo6.png"
+          }
+        ]
+      },
+      {
+        "semester_no": "02",
+        "semester_desc": "Building on programming, mathematics, and core skills.",
+        "subjects": [
+          {
+            "title": "Object Oriented Programming",
+            "subjectCode": "COMP2111",
+            "logo": "https://example.com/logo1.png"
+          },
+          {
+            "title": "Discrete Mathematics",
+            "subjectCode": "MATH2113",
+            "logo": "https://example.com/logo2.png"
+          },
+          {
+            "title": "Expository Writing",
+            "subjectCode": "ENGL1120",
+            "logo": "https://example.com/logo3.png"
+          },
+          {
+            "title": "Multivariable Calculus",
+            "subjectCode": "MATH3122",
+            "logo": "https://example.com/logo4.png"
+          },
+          {
+            "title": "Ideology and Constitution of Pakistan",
+            "subjectCode": "PAKS1119",
+            "logo": "https://example.com/logo5.png"
+          },
+          {
+            "title": "Digital Logic and Design",
+            "subjectCode": "PHYS4129",
+            "logo": "https://example.com/logo6.png"
+          }
+        ]
+      },
+      {
+        "semester_no": "03",
+        "semester_desc": "Intermediate courses in data structures, networks, and organization.",
+        "subjects": [
+          {
+            "title": "Professional Practices",
+            "subjectCode": "ITEC4112",
+            "logo": "https://example.com/logo1.png"
+          },
+          {
+            "title": "Data Structures",
+            "subjectCode": "COMP2117",
+            "logo": "https://example.com/logo2.png"
+          },
+          {
+            "title": "Computer Organization and Assembly Language",
+            "subjectCode": "COMP2118",
+            "logo": "https://example.com/logo3.png"
+          },
+          {
+            "title": "Computer Networks",
+            "subjectCode": "COMP2119",
+            "logo": "https://example.com/logo4.png"
+          },
+          {
+            "title": "Linear Algebra",
+            "subjectCode": "MATH3114",
+            "logo": "https://example.com/logo5.png"
+          },
+          {
+            "title": "Foundations of Management",
+            "subjectCode": "BUSA2118",
+            "logo": "https://example.com/logo6.png"
+          }
+        ]
+      },
+      {
+        "semester_no": "04",
+        "semester_desc": "Advanced concepts in security, AI, software engineering, and databases.",
+        "subjects": [
+          {
+            "title": "Introduction to Entrepreneurship",
+            "subjectCode": "BUSA1114",
+            "logo": "https://example.com/logo1.png"
+          },
+          {
+            "title": "Civics and Community Engagement",
+            "subjectCode": "POLS2111",
+            "logo": "https://example.com/logo2.png"
+          },
+          {
+            "title": "Information Security",
+            "subjectCode": "COMP2120",
+            "logo": "https://example.com/logo3.png"
+          },
+          {
+            "title": "Artificial Intelligence",
+            "subjectCode": "COMP2121",
+            "logo": "https://example.com/logo4.png"
+          },
+          {
+            "title": "Software Engineering",
+            "subjectCode": "COMP2112",
+            "logo": "https://example.com/logo5.png"
+          },
+          {
+            "title": "Database Systems",
+            "subjectCode": "COMP2114",
+            "logo": "https://example.com/logo6.png"
+          }
+        ]
+      },
+      {
+        "semester_no": "05",
+        "semester_desc": "Core courses in OS, HCI, and theoretical CS concepts.",
+        "subjects": [
+          {
+            "title": "Operating Systems",
+            "subjectCode": "COMP3142",
+            "logo": "https://example.com/logo1.png"
+          },
+          {
+            "title": "HCI & Computer Graphics",
+            "subjectCode": "COMP3145",
+            "logo": "https://example.com/logo2.png"
+          },
+          {
+            "title": "Advanced Database Management Systems",
+            "subjectCode": "COMP3146",
+            "logo": "https://example.com/logo3.png"
+          },
+          {
+            "title": "Introduction to Statistics",
+            "subjectCode": "STAT2115",
+            "logo": "https://example.com/logo4.png"
+          },
+          {
+            "title": "Computer Architecture",
+            "subjectCode": "COMP3147",
+            "logo": "https://example.com/logo5.png"
+          },
+          {
+            "title": "Theory of Automata",
+            "subjectCode": "COMP3148",
+            "logo": "https://example.com/logo6.png"
+          }
+        ]
+      },
+      {
+        "semester_no": "06",
+        "semester_desc": "Electives and specialization in compiler construction and advanced topics.",
+        "subjects": [
+          {
+            "title": "Compiler Construction",
+            "subjectCode": "COMP3149",
+            "logo": "https://example.com/logo1.png"
+          },
+          {
+            "title": "Domain Elective-I",
+            "subjectCode": "COMPXXXX",
+            "logo": "https://example.com/logo2.png"
+          },
+          {
+            "title": "Domain Elective-II",
+            "subjectCode": "COMPXXXX",
+            "logo": "https://example.com/logo3.png"
+          },
+          {
+            "title": "Domain Elective-III",
+            "subjectCode": "COMPXXXX",
+            "logo": "https://example.com/logo4.png"
+          },
+          {
+            "title": "Domain Elective-IV",
+            "subjectCode": "COMPXXXX",
+            "logo": "https://example.com/logo5.png"
+          }
+        ]
+      },
+      {
+        "semester_no": "07",
+        "semester_desc": "Focus on algorithms, technical writing, and capstone projects.",
+        "subjects": [
+          {
+            "title": "Analysis of Algorithms",
+            "subjectCode": "COMP4121",
+            "logo": "https://example.com/logo1.png"
+          },
+          {
+            "title": "Domain Elective-V",
+            "subjectCode": "ITECXXXX",
+            "logo": "https://example.com/logo2.png"
+          },
+          {
+            "title": "Domain Elective-VI",
+            "subjectCode": "ITECXXXX",
+            "logo": "https://example.com/logo3.png"
+          },
+          {
+            "title": "CS- Final Year Project - I",
+            "subjectCode": "COMP4115",
+            "logo": "https://example.com/logo4.png"
+          },
+          {
+            "title": "Technical and Business Writing",
+            "subjectCode": "ITEC4152",
+            "logo": "https://example.com/logo5.png"
+          },
+          {
+            "title": "Internship",
+            "subjectCode": "INTN6112",
+            "logo": "https://example.com/logo6.png"
+          }
+        ]
+      },
+      {
+        "semester_no": "08",
+        "semester_desc": "Final year project continuation and specialization in parallel computing.",
+        "subjects": [
+          {
+            "title": "Parallel & Distributed Computing",
+            "subjectCode": "COMP4122",
+            "logo": "https://example.com/logo1.png"
+          },
+          {
+            "title": "Domain Elective-VII",
+            "subjectCode": "COMPXXXX",
+            "logo": "https://example.com/logo2.png"
+          },
+          {
+            "title": "CS- Final Year Project - II",
+            "subjectCode": "COMP4127",
+            "logo": "https://example.com/logo3.png"
+          },
+          {
+            "title": "Fundamentals of Accounting",
+            "subjectCode": "BUSA1113",
+            "logo": "https://example.com/logo4.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Bachelor of Science in Information Technology",
+    "degreeCode": "BSIT",
+    "description": "IT program in networking, software development, and cybersecurity.",
+    "logo": "https://ph-files.imgix.net/6a6e20b6-c5ea-4803-ba2b-d2c8c806783a.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=48&h=48&fit=max&dpr=1",
+    "semesters": [
+      {
+        "semester_no": "01",
+        "semester_desc": "Introduction to core computing and foundational courses.",
+        "subjects": [
+          {
+            "title": "Programming Fundamentals",
+            "subjectCode": "COMP1112",
+            "logo": "https://example.com/logo1.png"
+          },
+          {
+            "title": "Applications of ICT",
+            "subjectCode": "COMP1116",
+            "logo": "https://example.com/logo2.png"
+          },
+          {
+            "title": "Calculus and Analytic Geometry",
+            "subjectCode": "MATH1129",
+            "logo": "https://example.com/logo3.png"
+          },
+          {
+            "title": "Functional English",
+            "subjectCode": "ENGL1114",
+            "logo": "https://example.com/logo4.png"
+          },
+          {
+            "title": "Applied Physics",
+            "subjectCode": "PHYS1124",
+            "logo": "https://example.com/logo5.png"
+          },
+          {
+            "title": "Islamic Studies / Ethics",
+            "subjectCode": "ISLA1111/HUMN1111",
+            "logo": "https://example.com/logo6.png"
+          }
+        ]
+      },
+      {
+        "semester_no": "02",
+        "semester_desc": "Building on programming, mathematics, and core skills.",
+        "subjects": [
+          {
+            "title": "Object Oriented Programming",
+            "subjectCode": "COMP2111",
+            "logo": "https://example.com/logo1.png"
+          },
+          {
+            "title": "Discrete Mathematics",
+            "subjectCode": "MATH2113",
+            "logo": "https://example.com/logo2.png"
+          },
+          {
+            "title": "Expository Writing",
+            "subjectCode": "ENGL1120",
+            "logo": "https://example.com/logo3.png"
+          },
+          {
+            "title": "Multivariable Calculus",
+            "subjectCode": "MATH3122",
+            "logo": "https://example.com/logo4.png"
+          },
+          {
+            "title": "Ideology and Constitution of Pakistan",
+            "subjectCode": "PAKS1119",
+            "logo": "https://example.com/logo5.png"
+          },
+          {
+            "title": "Digital Logic and Design",
+            "subjectCode": "PHYS4129",
+            "logo": "https://example.com/logo6.png"
+          }
+        ]
+      },
+      {
+        "semester_no": "03",
+        "semester_desc": "Intermediate courses in data structures, networks, and organization.",
+        "subjects": [
+          {
+            "title": "Professional Practices",
+            "subjectCode": "ITEC4112",
+            "logo": "https://example.com/logo1.png"
+          },
+          {
+            "title": "Data Structures",
+            "subjectCode": "COMP2117",
+            "logo": "https://example.com/logo2.png"
+          },
+          {
+            "title": "Computer Organization and Assembly Language",
+            "subjectCode": "COMP2118",
+            "logo": "https://example.com/logo3.png"
+          },
+          {
+            "title": "Computer Networks",
+            "subjectCode": "COMP2119",
+            "logo": "https://example.com/logo4.png"
+          },
+          {
+            "title": "Linear Algebra",
+            "subjectCode": "MATH3114",
+            "logo": "https://example.com/logo5.png"
+          },
+          {
+            "title": "Foundations of Management",
+            "subjectCode": "BUSA2118",
+            "logo": "https://example.com/logo6.png"
+          }
+        ]
+      },
+      {
+        "semester_no": "04",
+        "semester_desc": "Advanced concepts in security, AI, software engineering, and databases.",
+        "subjects": [
+          {
+            "title": "Introduction to Entrepreneurship",
+            "subjectCode": "BUSA1114",
+            "logo": "https://example.com/logo1.png"
+          },
+          {
+            "title": "Civics and Community Engagement",
+            "subjectCode": "POLS2111",
+            "logo": "https://example.com/logo2.png"
+          },
+          {
+            "title": "Information Security",
+            "subjectCode": "COMP2120",
+            "logo": "https://example.com/logo3.png"
+          },
+          {
+            "title": "Artificial Intelligence",
+            "subjectCode": "COMP2121",
+            "logo": "https://example.com/logo4.png"
+          },
+          {
+            "title": "Software Engineering",
+            "subjectCode": "COMP2112",
+            "logo": "https://example.com/logo5.png"
+          },
+          {
+            "title": "Database Systems",
+            "subjectCode": "COMP2114",
+            "logo": "https://example.com/logo6.png"
+          }
+        ]
+      },
+      {
+        "semester_no": "05",
+        "semester_desc": "Core courses in OS, HCI, and theoretical CS concepts.",
+        "subjects": [
+          {
+            "title": "Operating Systems",
+            "subjectCode": "COMP3142",
+            "logo": "https://example.com/logo1.png"
+          },
+          {
+            "title": "HCI & Computer Graphics",
+            "subjectCode": "COMP3145",
+            "logo": "https://example.com/logo2.png"
+          },
+          {
+            "title": "Advanced Database Management Systems",
+            "subjectCode": "COMP3146",
+            "logo": "https://example.com/logo3.png"
+          },
+          {
+            "title": "Introduction to Statistics",
+            "subjectCode": "STAT2115",
+            "logo": "https://example.com/logo4.png"
+          },
+          {
+            "title": "Computer Architecture",
+            "subjectCode": "COMP3147",
+            "logo": "https://example.com/logo5.png"
+          },
+          {
+            "title": "Theory of Automata",
+            "subjectCode": "COMP3148",
+            "logo": "https://example.com/logo6.png"
+          }
+        ]
+      },
+      {
+        "semester_no": "06",
+        "semester_desc": "Electives and specialization in compiler construction and advanced topics.",
+        "subjects": [
+          {
+            "title": "Compiler Construction",
+            "subjectCode": "COMP3149",
+            "logo": "https://example.com/logo1.png"
+          },
+          {
+            "title": "Domain Elective-I",
+            "subjectCode": "COMPXXXX",
+            "logo": "https://example.com/logo2.png"
+          },
+          {
+            "title": "Domain Elective-II",
+            "subjectCode": "COMPXXXX",
+            "logo": "https://example.com/logo3.png"
+          },
+          {
+            "title": "Domain Elective-III",
+            "subjectCode": "COMPXXXX",
+            "logo": "https://example.com/logo4.png"
+          },
+          {
+            "title": "Domain Elective-IV",
+            "subjectCode": "COMPXXXX",
+            "logo": "https://example.com/logo5.png"
+          }
+        ]
+      },
+      {
+        "semester_no": "07",
+        "semester_desc": "Focus on algorithms, technical writing, and capstone projects.",
+        "subjects": [
+          {
+            "title": "Analysis of Algorithms",
+            "subjectCode": "COMP4121",
+            "logo": "https://example.com/logo1.png"
+          },
+          {
+            "title": "Domain Elective-V",
+            "subjectCode": "ITECXXXX",
+            "logo": "https://example.com/logo2.png"
+          },
+          {
+            "title": "Domain Elective-VI",
+            "subjectCode": "ITECXXXX",
+            "logo": "https://example.com/logo3.png"
+          },
+          {
+            "title": "CS- Final Year Project - I",
+            "subjectCode": "COMP4115",
+            "logo": "https://example.com/logo4.png"
+          },
+          {
+            "title": "Technical and Business Writing",
+            "subjectCode": "ITEC4152",
+            "logo": "https://example.com/logo5.png"
+          },
+          {
+            "title": "Internship",
+            "subjectCode": "INTN6112",
+            "logo": "https://example.com/logo6.png"
+          }
+        ]
+      },
+      {
+        "semester_no": "08",
+        "semester_desc": "Final year project continuation and specialization in parallel computing.",
+        "subjects": [
+          {
+            "title": "Parallel & Distributed Computing",
+            "subjectCode": "COMP4122",
+            "logo": "https://example.com/logo1.png"
+          },
+          {
+            "title": "Domain Elective-VII",
+            "subjectCode": "COMPXXXX",
+            "logo": "https://example.com/logo2.png"
+          },
+          {
+            "title": "CS- Final Year Project - II",
+            "subjectCode": "COMP4127",
+            "logo": "https://example.com/logo3.png"
+          },
+          {
+            "title": "Fundamentals of Accounting",
+            "subjectCode": "BUSA1113",
+            "logo": "https://example.com/logo4.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Bachelor of Business Administration",
+    "degreeCode": "BBA",
+    "description": "A program in essential business skills, management, and leadership.",
+    "logo": "https://ph-files.imgix.net/6a6e20b6-c5ea-4803-ba2b-d2c8c806783a.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=48&h=48&fit=max&dpr=1",
+    "semesters": [
+      {
+        "semester_no": "01",
+        "semester_desc": "Foundation in English, society, science, and business basics.",
+        "subjects": [
+          {
+            "title": "Functional English",
+            "subjectCode": "ENGL1114",
+            "logo": "https://example.com/logo1.png"
+          },
+          {
+            "title": "Science of Society",
+            "subjectCode": "POLS2112",
+            "logo": "https://example.com/logo2.png"
+          },
+          {
+            "title": "What is Science?",
+            "subjectCode": "GSCI1111",
+            "logo": "https://example.com/logo3.png"
+          },
+          {
+            "title": "Introduction to Business",
+            "subjectCode": "BUSA1111",
+            "logo": "https://example.com/logo4.png"
+          },
+          {
+            "title": "Fundamentals of Accounting",
+            "subjectCode": "BUSA1113",
+            "logo": "https://example.com/logo5.png"
+          },
+          {
+            "title": "Ideology & Constitution of Pakistan",
+            "subjectCode": "PAKS1119",
+            "logo": "https://example.com/logo6.png"
+          }
+        ]
+      },
+      {
+        "semester_no": "02",
+        "semester_desc": "Focus on communication, technology, ethics, and management principles.",
+        "subjects": [
+          {
+            "title": "Expository Writing",
+            "subjectCode": "ENGL1120",
+            "logo": "https://example.com/logo1.png"
+          },
+          {
+            "title": "Application of ICT",
+            "subjectCode": "COMP1116",
+            "logo": "https://example.com/logo2.png"
+          },
+          {
+            "title": "Exploring Quantitative Skills",
+            "subjectCode": "MATH1126",
+            "logo": "https://example.com/logo3.png"
+          },
+          {
+            "title": "Urdu Literature",
+            "subjectCode": "URDU3134",
+            "logo": "https://example.com/logo4.png"
+          },
+          {
+            "title": "Islamic Studies / Ethics",
+            "subjectCode": "ISLA1111 / HUMN1111",
+            "logo": "https://example.com/logo5.png"
+          },
+          {
+            "title": "Principles of Management",
+            "subjectCode": "BUSA3111",
+            "logo": "https://example.com/logo6.png"
+          },
+          {
+            "title": "Tarjumma Quran/Wahdat Adian aur Mazhab e Alam",
+            "subjectCode": "ISLA1121/ISLA1120",
+            "logo": "https://example.com/logo7.png"
+          }
+        ]
+      },
+      {
+        "semester_no": "03",
+        "semester_desc": "Building knowledge in business ethics, HR, finance, and economics.",
+        "subjects": [
+          {
+            "title": "Business Ethics and Sustainability",
+            "subjectCode": "BUSA2117",
+            "logo": "https://example.com/logo1.png"
+          },
+          {
+            "title": "Tools for Quantitative Reasoning",
+            "subjectCode": "MATH2118",
+            "logo": "https://example.com/logo2.png"
+          },
+          {
+            "title": "Human Resource Management",
+            "subjectCode": "BUSA2115",
+            "logo": "https://example.com/logo3.png"
+          },
+          {
+            "title": "Financial Accounting",
+            "subjectCode": "BUSA3112",
+            "logo": "https://example.com/logo4.png"
+          },
+          {
+            "title": "Principles of Marketing",
+            "subjectCode": "BUSA2114",
+            "logo": "https://example.com/logo5.png"
+          },
+          {
+            "title": "Principles of Microeconomics",
+            "subjectCode": "ECON1111",
+            "logo": "https://example.com/logo6.png"
+          }
+        ]
+      },
+      {
+        "semester_no": "04",
+        "semester_desc": "Expanding on economics, finance, law, and entrepreneurship.",
+        "subjects": [
+          {
+            "title": "Principles of Macroeconomics",
+            "subjectCode": "ECON1116",
+            "logo": "https://example.com/logo1.png"
+          },
+          {
+            "title": "Business Finance",
+            "subjectCode": "BUSA2112",
+            "logo": "https://example.com/logo2.png"
+          },
+          {
+            "title": "Mercantile Law",
+            "subjectCode": "BUSA3120",
+            "logo": "https://example.com/logo3.png"
+          },
+          {
+            "title": "Money and Banking",
+            "subjectCode": "BUSA3116",
+            "logo": "https://example.com/logo4.png"
+          },
+          {
+            "title": "Introduction to Entrepreneurship",
+            "subjectCode": "BUSA1114",
+            "logo": "https://example.com/logo5.png"
+          },
+          {
+            "title": "Civics and Community Engagement",
+            "subjectCode": "POLS2111",
+            "logo": "https://example.com/logo6.png"
+          },
+          {
+            "title": "Tarjumma Quran/Wahdat Adian aur Mazhab e Alam",
+            "subjectCode": "ISLA1121/ISLA1120",
+            "logo": "https://example.com/logo7.png"
+          }
+        ]
+      },
+      {
+        "semester_no": "05",
+        "semester_desc": "Developing communication and advanced accounting skills.",
+        "subjects": [
+          {
+            "title": "Business Communication I",
+            "subjectCode": "BUSA3114",
+            "logo": "https://example.com/logo1.png"
+          },
+          {
+            "title": "Taxation Management",
+            "subjectCode": "BUSA5121",
+            "logo": "https://example.com/logo2.png"
+          },
+          {
+            "title": "Cost and Management Accounting",
+            "subjectCode": "BUSA2113",
+            "logo": "https://example.com/logo3.png"
+          },
+          {
+            "title": "Knowledge Management and Organizational Learning",
+            "subjectCode": "BUSA3128",
+            "logo": "https://example.com/logo4.png"
+          },
+          {
+            "title": "Statistical Analysis for Business",
+            "subjectCode": "BUSA3129",
+            "logo": "https://example.com/logo5.png"
+          },
+          {
+            "title": "Seerat of the Holy Prophet Muhammad (SAW)",
+            "subjectCode": "ISLA1122",
+            "logo": "https://example.com/logo6.png"
+          }
+        ]
+      },
+      {
+        "semester_no": "06",
+        "semester_desc": "Focus on research, financial, and organizational skills.",
+        "subjects": [
+          {
+            "title": "Financial Management",
+            "subjectCode": "BUSA3122",
+            "logo": "https://example.com/logo1.png"
+          },
+          {
+            "title": "Business Research Methods",
+            "subjectCode": "BUSA3115",
+            "logo": "https://example.com/logo2.png"
+          },
+          {
+            "title": "Organizational Behavior",
+            "subjectCode": "BUSA3119",
+            "logo": "https://example.com/logo3.png"
+          },
+          {
+            "title": "Operations and Supply Chain Management",
+            "subjectCode": "BUSA3121",
+            "logo": "https://example.com/logo4.png"
+          },
+          {
+            "title": "Marketing Management",
+            "subjectCode": "BUSA3118",
+            "logo": "https://example.com/logo5.png"
+          },
+          {
+            "title": "Tarjumma Quran/Wahdat Adian aur Mazhab e Alam",
+            "subjectCode": "ISLA1121/ISLA1120",
+            "logo": "https://example.com/logo6.png"
+          }
+        ]
+      },
+      {
+        "semester_no": "07",
+        "semester_desc": "Advanced business and specialization electives.",
+        "subjects": [
+          {
+            "title": "International Business and Trade",
+            "subjectCode": "BUSA4114",
+            "logo": "https://example.com/logo1.png"
+          },
+          {
+            "title": "Electronic Commerce",
+            "subjectCode": "ITEC4120",
+            "logo": "https://example.com/logo2.png"
+          },
+          {
+            "title": "Financial Markets",
+            "subjectCode": "ECON4130",
+            "logo": "https://example.com/logo3.png"
+          },
+          {
+            "title": "Elective – I",
+            "subjectCode": "BBAELECT1",
+            "logo": "https://example.com/logo4.png"
+          },
+          {
+            "title": "Elective – II",
+            "subjectCode": "BBAELECT2",
+            "logo": "https://example.com/logo5.png"
+          }
+        ]
+      },
+      {
+        "semester_no": "08",
+        "semester_desc": "Capstone project and strategic management.",
+        "subjects": [
+          {
+            "title": "Data Analytics for Business",
+            "subjectCode": "BUSA4147",
+            "logo": "https://example.com/logo1.png"
+          },
+          {
+            "title": "Business Capstone Project",
+            "subjectCode": "BUSA4148",
+            "logo": "https://example.com/logo2.png"
+          },
+          {
+            "title": "Strategic Management",
+            "subjectCode": "BUSA5113",
+            "logo": "https://example.com/logo3.png"
+          },
+          {
+            "title": "Elective – III",
+            "subjectCode": "BBAELECT3",
+            "logo": "https://example.com/logo4.png"
+          },
+          {
+            "title": "Elective – IV",
+            "subjectCode": "BBAELECT4",
+            "logo": "https://example.com/logo5.png"
+          },
+          {
+            "title": "Tarjumma Quran/Wahdat Adian aur Mazhab e Alam",
+            "subjectCode": "ISLA1121/ISLA1120",
+            "logo": "https://example.com/logo6.png"
+          }
+        ]
+      }
+    ]
+  }
+]

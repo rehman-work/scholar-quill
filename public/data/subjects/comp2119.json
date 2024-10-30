@@ -1,0 +1,104 @@
+{
+  "subject": {
+    "title": "Computer Networks",
+    "subjectCode": "COMP2119",
+    "topics": [
+      {
+        "title": "Introduction and protocols architecture",
+        "slug": "introduction-and-protocols-architecture"
+      },
+      {
+        "title": "basic concepts of networking",
+        "slug": "basic-concepts-of-networking"
+      },
+      {
+        "title": "network  topologies",
+        "slug": "network-topologies"
+      },
+      {
+        "title": "layered architecture",
+        "slug": "layered-architecture"
+      },
+      {
+        "title": "physical layer functionality",
+        "slug": "physical-layer-functionality"
+      },
+      {
+        "title": "data link layer functionality",
+        "slug": "data-link-layer-functionality"
+      },
+      {
+        "title": "multiple access techniques",
+        "slug": "multiple-access-techniques"
+      },
+      {
+        "title": "circuit switching and packet switching",
+        "slug": "circuit-switching-and-packet-switching"
+      },
+      {
+        "title": "LAN  technologies",
+        "slug": "lan-technologies"
+      },
+      {
+        "title": "wireless networks",
+        "slug": "wireless-networks"
+      },
+      {
+        "title": "MAC addressing",
+        "slug": "mac-addressing"
+      },
+      {
+        "title": "networking devices",
+        "slug": "networking-devices"
+      },
+      {
+        "title": "network layer  protocols",
+        "slug": "network-layer-protocols"
+      },
+      {
+        "title": "IPv4 and IPv6",
+        "slug": "ipv4-and-ipv6"
+      },
+      {
+        "title": "IP addressing",
+        "slug": "ip-addressing"
+      },
+      {
+        "title": "sub netting",
+        "slug": "sub-netting"
+      },
+      {
+        "title": "CIDR",
+        "slug": "cidr"
+      },
+      {
+        "title": "routing protocols",
+        "slug": "routing-protocols"
+      },
+      {
+        "title": "transport  layer protocols",
+        "slug": "transport-layer-protocols"
+      },
+      {
+        "title": "ports and sockets",
+        "slug": "ports-and-sockets"
+      },
+      {
+        "title": "connection establishment",
+        "slug": "connection-establishment"
+      },
+      {
+        "title": "flow and congestion control",
+        "slug": "flow-and-congestion-control"
+      },
+      {
+        "title": "application layer protocols",
+        "slug": "application-layer-protocols"
+      },
+      {
+        "title": "latest trends in computer networks",
+        "slug": "latest-trends-in-computer-networks"
+      }
+    ]
+  }
+}

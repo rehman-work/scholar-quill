@@ -1,0 +1,76 @@
+{
+  "subject": {
+    "title": "Ethics",
+    "subjectCode": "HUMN1111",
+    "topics": [
+      {
+        "title": "Ethics",
+        "slug": "ethics"
+      },
+      {
+        "title": "Religious Ethics",
+        "slug": "religious-ethics"
+      },
+      {
+        "title": "a comparative study",
+        "slug": "a-comparative-study"
+      },
+      {
+        "title": "Ethical Values",
+        "slug": "ethical-values"
+      },
+      {
+        "title": "Hinduism",
+        "slug": "hinduism"
+      },
+      {
+        "title": "Buddhism",
+        "slug": "buddhism"
+      },
+      {
+        "title": "Zoroastrianism",
+        "slug": "zoroastrianism"
+      },
+      {
+        "title": "Judaism",
+        "slug": "judaism"
+      },
+      {
+        "title": "Christianity and Islam",
+        "slug": "christianity-and-islam"
+      },
+      {
+        "title": "Ethics a Philosophical Perspective",
+        "slug": "ethics-a-philosophical-perspective"
+      },
+      {
+        "title": "Mannerism",
+        "slug": "mannerism"
+      },
+      {
+        "title": "Ethics: Social Perspective",
+        "slug": "ethics-social-perspective"
+      },
+      {
+        "title": "Defense Mechanism",
+        "slug": "defense-mechanism"
+      },
+      {
+        "title": "Character Building",
+        "slug": "character-building"
+      },
+      {
+        "title": "Prejudice",
+        "slug": "prejudice"
+      },
+      {
+        "title": "Regionalism",
+        "slug": "regionalism"
+      },
+      {
+        "title": "Provincialism",
+        "slug": "provincialism"
+      }
+    ]
+  }
+}

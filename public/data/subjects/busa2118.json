@@ -1,0 +1,144 @@
+{
+  "subject": {
+    "title": "Foundations of Management",
+    "subjectCode": "BUSA2118",
+    "topics": [
+      {
+        "title": "Introduction to Management",
+        "slug": "introduction-to-management"
+      },
+      {
+        "title": "Definition and significance of management",
+        "slug": "definition-and-significance-of-management"
+      },
+      {
+        "title": "Overview of key management functions and roles Short History of Management",
+        "slug": "overview-of-key-management-functions-and-roles-short-history-of-management"
+      },
+      {
+        "title": "Classical management approaches (scientific management and administrative  management)",
+        "slug": "classical-management-approaches-scientific-management-and-administrative-management"
+      },
+      {
+        "title": "Contemporary management theories (systems theory",
+        "slug": "contemporary-management-theories-systems-theory"
+      },
+      {
+        "title": "contingency theory) Managerial Functions - Planning",
+        "slug": "contingency-theory-managerial-functions-planning"
+      },
+      {
+        "title": "Importance of planning in management",
+        "slug": "importance-of-planning-in-management"
+      },
+      {
+        "title": "Types of plans: strategic",
+        "slug": "types-of-plans-strategic"
+      },
+      {
+        "title": "tactical",
+        "slug": "tactical"
+      },
+      {
+        "title": "and operational",
+        "slug": "and-operational"
+      },
+      {
+        "title": "Decision making: rational vs intuitive",
+        "slug": "decision-making-rational-vs-intuitive"
+      },
+      {
+        "title": "Goal-setting and decision-making in the planning process Managerial Functions - Organizing",
+        "slug": "goal-setting-and-decision-making-in-the-planning-process-managerial-functions-organizing"
+      },
+      {
+        "title": "Principles of organizational structure",
+        "slug": "principles-of-organizational-structure"
+      },
+      {
+        "title": "Delegation of authority and responsibility",
+        "slug": "delegation-of-authority-and-responsibility"
+      },
+      {
+        "title": "Departmentalization and coordination within organizations Organizational Structure and Design",
+        "slug": "departmentalization-and-coordination-within-organizations-organizational-structure-and-design"
+      },
+      {
+        "title": "Types of organizational structures",
+        "slug": "types-of-organizational-structures"
+      },
+      {
+        "title": "Factors influencing organizational design",
+        "slug": "factors-influencing-organizational-design"
+      },
+      {
+        "title": "Mechanistic vs",
+        "slug": "mechanistic-vs"
+      },
+      {
+        "title": "organic structures Managerial Functions – Leading",
+        "slug": "organic-structures-managerial-functions-leading"
+      },
+      {
+        "title": "Theories of leadership and leadership styles",
+        "slug": "theories-of-leadership-and-leadership-styles"
+      },
+      {
+        "title": "Motivation and employee engagement",
+        "slug": "motivation-and-employee-engagement"
+      },
+      {
+        "title": "Communication and effective leadership Managerial Functions – Controlling",
+        "slug": "communication-and-effective-leadership-managerial-functions-controlling"
+      },
+      {
+        "title": "The control process and its significance",
+        "slug": "the-control-process-and-its-significance"
+      },
+      {
+        "title": "Types of control measures and their application",
+        "slug": "types-of-control-measures-and-their-application"
+      },
+      {
+        "title": "Addressing deviations and corrective actions Introduction to Organizations and Types of Businesses",
+        "slug": "addressing-deviations-and-corrective-actions-introduction-to-organizations-and-types-of-businesses"
+      },
+      {
+        "title": "Overview of organizations and their characteristics",
+        "slug": "overview-of-organizations-and-their-characteristics"
+      },
+      {
+        "title": "Types of businesses: Sole proprietorship",
+        "slug": "types-of-businesses-sole-proprietorship"
+      },
+      {
+        "title": "partnership",
+        "slug": "partnership"
+      },
+      {
+        "title": "corporation",
+        "slug": "corporation"
+      },
+      {
+        "title": "and more",
+        "slug": "and-more"
+      },
+      {
+        "title": "Advantages and disadvantages of different business types Understanding the Organizational Environment",
+        "slug": "advantages-and-disadvantages-of-different-business-types-understanding-the-organizational-environment"
+      },
+      {
+        "title": "Internal and external environmental factors",
+        "slug": "internal-and-external-environmental-factors"
+      },
+      {
+        "title": "Environmental analysis and adaptation",
+        "slug": "environmental-analysis-and-adaptation"
+      },
+      {
+        "title": "Strategic planning in a dynamic environment",
+        "slug": "strategic-planning-in-a-dynamic-environment"
+      }
+    ]
+  }
+}
