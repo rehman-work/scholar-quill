@@ -1,0 +1,176 @@
+{
+  "subject": {
+    "title": "Cost and Management Accounting",
+    "subjectCode": "BUSA2113",
+    "topics": [
+      {
+        "title": "Cost Accounting Concepts and Objectives: Definition",
+        "slug": "cost-accounting-concepts-and-objectives-definition"
+      },
+      {
+        "title": "Concept and Scope  of Cost Accounting",
+        "slug": "concept-and-scope-of-cost-accounting"
+      },
+      {
+        "title": "Cost elements",
+        "slug": "cost-elements"
+      },
+      {
+        "title": "Nature and objective",
+        "slug": "nature-and-objective"
+      },
+      {
+        "title": "The Cost  Department",
+        "slug": "the-cost-department"
+      },
+      {
+        "title": "Costs: Concepts",
+        "slug": "costs-concepts"
+      },
+      {
+        "title": "Uses and Classification: Product and period cost",
+        "slug": "uses-and-classification-product-and-period-cost"
+      },
+      {
+        "title": "Direct  and indirect cost",
+        "slug": "direct-and-indirect-cost"
+      },
+      {
+        "title": "Fixed and variable cost",
+        "slug": "fixed-and-variable-cost"
+      },
+      {
+        "title": "Mixed cost",
+        "slug": "mixed-cost"
+      },
+      {
+        "title": "Sunk Cost",
+        "slug": "sunk-cost"
+      },
+      {
+        "title": "Joint Cost  and By-Product Cost",
+        "slug": "joint-cost-and-by-product-cost"
+      },
+      {
+        "title": "Opportunity Cost",
+        "slug": "opportunity-cost"
+      },
+      {
+        "title": "Flow of Costs in a Manufacturing  enterprise Statement of cost of goods manufactured and sold statement: Adjustment  for Variance",
+        "slug": "flow-of-costs-in-a-manufacturing-enterprise-statement-of-cost-of-goods-manufactured-and-sold-statement-adjustment-for-variance"
+      },
+      {
+        "title": "Cost of Goods Sold",
+        "slug": "cost-of-goods-sold"
+      },
+      {
+        "title": "Net Profit/Net loss",
+        "slug": "net-profitnet-loss"
+      },
+      {
+        "title": "Entire Production",
+        "slug": "entire-production"
+      },
+      {
+        "title": "Job Order Costing: Cost Summary",
+        "slug": "job-order-costing-cost-summary"
+      },
+      {
+        "title": "Cost Accumulation Procedures",
+        "slug": "cost-accumulation-procedures"
+      },
+      {
+        "title": "NetProfit/Net loss",
+        "slug": "netprofitnet-loss"
+      },
+      {
+        "title": "Entire Production",
+        "slug": "entire-production"
+      },
+      {
+        "title": "Cost Volume Profit Analysis",
+        "slug": "cost-volume-profit-analysis"
+      },
+      {
+        "title": "Break-even  Analysis",
+        "slug": "break-even-analysis"
+      },
+      {
+        "title": "Cost-volume Profit Analysis Planning and Control of Materials: Procedure for material procurement and  use",
+        "slug": "cost-volume-profit-analysis-planning-and-control-of-materials-procedure-for-material-procurement-and-use"
+      },
+      {
+        "title": "Material costing methods MID TERM EXAMS  Perpetual and Periodic Accounting System: Inventory valuation at cost or  market whichever is lower",
+        "slug": "material-costing-methods-mid-term-exams-perpetual-and-periodic-accounting-system-inventory-valuation-at-cost-or-market-whichever-is-lower"
+      },
+      {
+        "title": "Procedure for spoiled",
+        "slug": "procedure-for-spoiled"
+      },
+      {
+        "title": "scrap and defective work",
+        "slug": "scrap-and-defective-work"
+      },
+      {
+        "title": "EOQ",
+        "slug": "eoq"
+      },
+      {
+        "title": "Inventory level and reserve stocks",
+        "slug": "inventory-level-and-reserve-stocks"
+      },
+      {
+        "title": "Valuation of inventory",
+        "slug": "valuation-of-inventory"
+      },
+      {
+        "title": "Planning  materials requirement",
+        "slug": "planning-materials-requirement"
+      },
+      {
+        "title": "Materials control Process Costing: Cost of Production Report",
+        "slug": "materials-control-process-costing-cost-of-production-report"
+      },
+      {
+        "title": "First in First Out (FIFO)",
+        "slug": "first-in-first-out-fifo"
+      },
+      {
+        "title": "Last  in First Out (LIFO)",
+        "slug": "last-in-first-out-lifo"
+      },
+      {
+        "title": "Weighted Average Planning and Control of Labor: Productivity and labor costs",
+        "slug": "weighted-average-planning-and-control-of-labor-productivity-and-labor-costs"
+      },
+      {
+        "title": "Incentive wage plans",
+        "slug": "incentive-wage-plans"
+      },
+      {
+        "title": "Factory Overhead: Procedure of factory overheads including apportionment",
+        "slug": "factory-overhead-procedure-of-factory-overheads-including-apportionment"
+      },
+      {
+        "title": "Applied and actual FOH",
+        "slug": "applied-and-actual-foh"
+      },
+      {
+        "title": "under applied FOH Overtime plans",
+        "slug": "under-applied-foh-overtime-plans"
+      },
+      {
+        "title": "Bonus payments",
+        "slug": "bonus-payments"
+      },
+      {
+        "title": "Vocation pay guaranteed annual wage  plans",
+        "slug": "vocation-pay-guaranteed-annual-wage-plans"
+      },
+      {
+        "title": "apprenticeship and training programs",
+        "slug": "apprenticeship-and-training-programs"
+      }
+    ]
+  }
+}

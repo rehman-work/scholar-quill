@@ -1,0 +1,264 @@
+{
+  "subject": {
+    "title": "Fundamentals of Accounting",
+    "subjectCode": "BUSA1113",
+    "topics": [
+      {
+        "title": "Introduction to Accounting and Business: Nature of  Business and Accounting",
+        "slug": "introduction-to-accounting-and-business-nature-of-business-and-accounting"
+      },
+      {
+        "title": "Types of Businesses",
+        "slug": "types-of-businesses"
+      },
+      {
+        "title": "Types of  Business Organization",
+        "slug": "types-of-business-organization"
+      },
+      {
+        "title": "Users of Accounting Information",
+        "slug": "users-of-accounting-information"
+      },
+      {
+        "title": "Role  of Ethics in Business",
+        "slug": "role-of-ethics-in-business"
+      },
+      {
+        "title": "Role of Accounting in Business",
+        "slug": "role-of-accounting-in-business"
+      },
+      {
+        "title": "Profession of Accounting",
+        "slug": "profession-of-accounting"
+      },
+      {
+        "title": "Fundamental Accounting Concepts",
+        "slug": "fundamental-accounting-concepts"
+      },
+      {
+        "title": "Principles and  Policies: The Business Entity Concept",
+        "slug": "principles-and-policies-the-business-entity-concept"
+      },
+      {
+        "title": "The Reliability (or  Objectivity) principle",
+        "slug": "the-reliability-or-objectivity-principle"
+      },
+      {
+        "title": "Historical Cost Convention",
+        "slug": "historical-cost-convention"
+      },
+      {
+        "title": "Substance Over Form",
+        "slug": "substance-over-form"
+      },
+      {
+        "title": "The Fair Value Principle",
+        "slug": "the-fair-value-principle"
+      },
+      {
+        "title": "The Going-Concern  Assumptions",
+        "slug": "the-going-concern-assumptions"
+      },
+      {
+        "title": "The Realization Principle",
+        "slug": "the-realization-principle"
+      },
+      {
+        "title": "The Matching Principle",
+        "slug": "the-matching-principle"
+      },
+      {
+        "title": "Money Measurement ( Stable Dollar Assumption )",
+        "slug": "money-measurement-stable-dollar-assumption"
+      },
+      {
+        "title": "Materiality",
+        "slug": "materiality"
+      },
+      {
+        "title": "Financial Statements: Business Transactions and The  Accounting Equation",
+        "slug": "financial-statements-business-transactions-and-the-accounting-equation"
+      },
+      {
+        "title": "Effects of Business Transactions on  Accounting Elements",
+        "slug": "effects-of-business-transactions-on-accounting-elements"
+      },
+      {
+        "title": "Set of Financial Statements",
+        "slug": "set-of-financial-statements"
+      },
+      {
+        "title": "Definition of  Income Statement",
+        "slug": "definition-of-income-statement"
+      },
+      {
+        "title": "Components of Income Statement :  Revenues",
+        "slug": "components-of-income-statement-revenues"
+      },
+      {
+        "title": "Expenses",
+        "slug": "expenses"
+      },
+      {
+        "title": "Gains and Losses",
+        "slug": "gains-and-losses"
+      },
+      {
+        "title": "Accounting for  Revenues and Expenses",
+        "slug": "accounting-for-revenues-and-expenses"
+      },
+      {
+        "title": "Financial Statements: Statement of Owner’s Equity",
+        "slug": "financial-statements-statement-of-owners-equity"
+      },
+      {
+        "title": "Definition of Balance Sheet",
+        "slug": "definition-of-balance-sheet"
+      },
+      {
+        "title": "Components of Balance Sheet:  Assets",
+        "slug": "components-of-balance-sheet-assets"
+      },
+      {
+        "title": "Liabilities",
+        "slug": "liabilities"
+      },
+      {
+        "title": "Equity",
+        "slug": "equity"
+      },
+      {
+        "title": "Statement of Cash Flows",
+        "slug": "statement-of-cash-flows"
+      },
+      {
+        "title": "Operating",
+        "slug": "operating"
+      },
+      {
+        "title": "Investing and Financing Activities",
+        "slug": "investing-and-financing-activities"
+      },
+      {
+        "title": "Direct Method",
+        "slug": "direct-method"
+      },
+      {
+        "title": "Interrelationships Among Financial Statements",
+        "slug": "interrelationships-among-financial-statements"
+      },
+      {
+        "title": "The Recording Process: Accrual Basis and Cash Basis of  Accounting",
+        "slug": "the-recording-process-accrual-basis-and-cash-basis-of-accounting"
+      },
+      {
+        "title": "Chart of Accounts",
+        "slug": "chart-of-accounts"
+      },
+      {
+        "title": "Phases in Accounting Cycle",
+        "slug": "phases-in-accounting-cycle"
+      },
+      {
+        "title": "Account and its Recording Process",
+        "slug": "account-and-its-recording-process"
+      },
+      {
+        "title": "Types of Accounts – Permanent and Temporary",
+        "slug": "types-of-accounts-permanent-and-temporary"
+      },
+      {
+        "title": "Double Entry Book Keeping System",
+        "slug": "double-entry-book-keeping-system"
+      },
+      {
+        "title": "Rules of Debit and Credit",
+        "slug": "rules-of-debit-and-credit"
+      },
+      {
+        "title": "Accounts from incomplete records: single entry system",
+        "slug": "accounts-from-incomplete-records-single-entry-system"
+      },
+      {
+        "title": "profit determination under single entry system",
+        "slug": "profit-determination-under-single-entry-system"
+      },
+      {
+        "title": "profit  determination under net-worth method and conversion method",
+        "slug": "profit-determination-under-net-worth-method-and-conversion-method"
+      },
+      {
+        "title": "Accounts from incomplete records: profit determination  under conversion method",
+        "slug": "accounts-from-incomplete-records-profit-determination-under-conversion-method"
+      },
+      {
+        "title": "Completing the Accounting Cycle: Flow of Accounting  Information",
+        "slug": "completing-the-accounting-cycle-flow-of-accounting-information"
+      },
+      {
+        "title": "Journalizing and Posting",
+        "slug": "journalizing-and-posting"
+      },
+      {
+        "title": "Closing Entries",
+        "slug": "closing-entries"
+      },
+      {
+        "title": "Post\u0002Closing Trial Balance",
+        "slug": "postclosing-trial-balance"
+      },
+      {
+        "title": "Adequate Disclosure and Types of  Information to be Disclosed",
+        "slug": "adequate-disclosure-and-types-of-information-to-be-disclosed"
+      },
+      {
+        "title": "Completing the Accounting Cycle: Income Statement",
+        "slug": "completing-the-accounting-cycle-income-statement"
+      },
+      {
+        "title": "Statement of Owner’s Equity",
+        "slug": "statement-of-owners-equity"
+      },
+      {
+        "title": "Balance Sheet",
+        "slug": "balance-sheet"
+      },
+      {
+        "title": "Illustrations and  Questions",
+        "slug": "illustrations-and-questions"
+      },
+      {
+        "title": "Partnership and company account: an introduction",
+        "slug": "partnership-and-company-account-an-introduction"
+      },
+      {
+        "title": "goodwill for sole trader and partnership",
+        "slug": "goodwill-for-sole-trader-and-partnership"
+      },
+      {
+        "title": "Partnership and company account: Revaluation of  partnership assets",
+        "slug": "partnership-and-company-account-revaluation-of-partnership-assets"
+      },
+      {
+        "title": "partnership dissolution",
+        "slug": "partnership-dissolution"
+      },
+      {
+        "title": "Partnership and company account: An introduction to  the financial statements of limited liability companies",
+        "slug": "partnership-and-company-account-an-introduction-to-the-financial-statements-of-limited-liability-companies"
+      },
+      {
+        "title": "Partnership and company account: Purchase of existing  partnership and sole traders’ businesses",
+        "slug": "partnership-and-company-account-purchase-of-existing-partnership-and-sole-traders-businesses"
+      },
+      {
+        "title": "Accounting for branches",
+        "slug": "accounting-for-branches"
+      },
+      {
+        "title": "Final Project Presentations",
+        "slug": "final-project-presentations"
+      }
+    ]
+  }
+}

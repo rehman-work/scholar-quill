@@ -1,0 +1,332 @@
+{
+  "subject": {
+    "title": "Principles of Marketing",
+    "subjectCode": "BUSA2114",
+    "topics": [
+      {
+        "title": "Introduction of marketing basic concepts: Definition of  marketing",
+        "slug": "introduction-of-marketing-basic-concepts-definition-of-marketing"
+      },
+      {
+        "title": "scope of marketing",
+        "slug": "scope-of-marketing"
+      },
+      {
+        "title": "the core concepts of  marketing",
+        "slug": "the-core-concepts-of-marketing"
+      },
+      {
+        "title": "the production concept",
+        "slug": "the-production-concept"
+      },
+      {
+        "title": "the product concept",
+        "slug": "the-product-concept"
+      },
+      {
+        "title": "the  selling concept",
+        "slug": "the-selling-concept"
+      },
+      {
+        "title": "the marketing concept",
+        "slug": "the-marketing-concept"
+      },
+      {
+        "title": "the social marketing concept",
+        "slug": "the-social-marketing-concept"
+      },
+      {
+        "title": "Market offerings",
+        "slug": "market-offerings"
+      },
+      {
+        "title": "products",
+        "slug": "products"
+      },
+      {
+        "title": "services",
+        "slug": "services"
+      },
+      {
+        "title": "experiences",
+        "slug": "experiences"
+      },
+      {
+        "title": "Customer value and satisfaction",
+        "slug": "customer-value-and-satisfaction"
+      },
+      {
+        "title": "exchanges and relationship",
+        "slug": "exchanges-and-relationship"
+      },
+      {
+        "title": "-",
+        "slug": ""
+      },
+      {
+        "title": "Marketing strategy and the marketing mix: Defining a  market-oriented mission statement",
+        "slug": "marketing-strategy-and-the-marketing-mix-defining-a-market-oriented-mission-statement"
+      },
+      {
+        "title": "setting objectives and goals",
+        "slug": "setting-objectives-and-goals"
+      },
+      {
+        "title": "Designing the business portfolio",
+        "slug": "designing-the-business-portfolio"
+      },
+      {
+        "title": "SBUS and their analysis",
+        "slug": "sbus-and-their-analysis"
+      },
+      {
+        "title": "Developing strategies for growth and downsizing",
+        "slug": "developing-strategies-for-growth-and-downsizing"
+      },
+      {
+        "title": "Marketing Environment: The micro-environment",
+        "slug": "marketing-environment-the-micro-environment"
+      },
+      {
+        "title": "company",
+        "slug": "company"
+      },
+      {
+        "title": "suppliers",
+        "slug": "suppliers"
+      },
+      {
+        "title": "competitors",
+        "slug": "competitors"
+      },
+      {
+        "title": "publics",
+        "slug": "publics"
+      },
+      {
+        "title": "customers",
+        "slug": "customers"
+      },
+      {
+        "title": "Macroenvironment",
+        "slug": "macroenvironment"
+      },
+      {
+        "title": "major forces in the company  environment and their impact",
+        "slug": "major-forces-in-the-company-environment-and-their-impact"
+      },
+      {
+        "title": "-",
+        "slug": ""
+      },
+      {
+        "title": "Consumer Markets: model of consumer behavior",
+        "slug": "consumer-markets-model-of-consumer-behavior"
+      },
+      {
+        "title": "characteristics of consumer behavior",
+        "slug": "characteristics-of-consumer-behavior"
+      },
+      {
+        "title": "cultural",
+        "slug": "cultural"
+      },
+      {
+        "title": "social",
+        "slug": "social"
+      },
+      {
+        "title": "personal and psychological factors",
+        "slug": "personal-and-psychological-factors"
+      },
+      {
+        "title": "Types of buying decision  behavior",
+        "slug": "types-of-buying-decision-behavior"
+      },
+      {
+        "title": "The buyer decision process",
+        "slug": "the-buyer-decision-process"
+      },
+      {
+        "title": "Consumer driven marketing strategy: market  segmentation",
+        "slug": "consumer-driven-marketing-strategy-market-segmentation"
+      },
+      {
+        "title": "types of segmentation",
+        "slug": "types-of-segmentation"
+      },
+      {
+        "title": "requirements for  effective segmentation",
+        "slug": "requirements-for-effective-segmentation"
+      },
+      {
+        "title": "Market targeting",
+        "slug": "market-targeting"
+      },
+      {
+        "title": "selecting target  markets segments",
+        "slug": "selecting-target-markets-segments"
+      },
+      {
+        "title": "choosing a targeting strategy",
+        "slug": "choosing-a-targeting-strategy"
+      },
+      {
+        "title": "Positioning",
+        "slug": "positioning"
+      },
+      {
+        "title": "selecting and overall positioning strategy",
+        "slug": "selecting-and-overall-positioning-strategy"
+      },
+      {
+        "title": "developing a  positioning statement",
+        "slug": "developing-a-positioning-statement"
+      },
+      {
+        "title": "MID TERM EXAMS",
+        "slug": "mid-term-exams"
+      },
+      {
+        "title": "-",
+        "slug": ""
+      },
+      {
+        "title": "Products",
+        "slug": "products"
+      },
+      {
+        "title": "Services and Brands: defining the product",
+        "slug": "services-and-brands-defining-the-product"
+      },
+      {
+        "title": "services and experiences",
+        "slug": "services-and-experiences"
+      },
+      {
+        "title": "levels of product",
+        "slug": "levels-of-product"
+      },
+      {
+        "title": "products and  services classifications",
+        "slug": "products-and-services-classifications"
+      },
+      {
+        "title": "products and services decisions",
+        "slug": "products-and-services-decisions"
+      },
+      {
+        "title": "product line decisions and product mix decisions",
+        "slug": "product-line-decisions-and-product-mix-decisions"
+      },
+      {
+        "title": "Characteristics of services",
+        "slug": "characteristics-of-services"
+      },
+      {
+        "title": "Building brands",
+        "slug": "building-brands"
+      },
+      {
+        "title": "brand equity",
+        "slug": "brand-equity"
+      },
+      {
+        "title": "building strong brands",
+        "slug": "building-strong-brands"
+      },
+      {
+        "title": "Price and Strategy: what is a price? Major pricing strategies",
+        "slug": "price-and-strategy-what-is-a-price-major-pricing-strategies"
+      },
+      {
+        "title": "new product pricing strategies",
+        "slug": "new-product-pricing-strategies"
+      },
+      {
+        "title": "market skimming pricing",
+        "slug": "market-skimming-pricing"
+      },
+      {
+        "title": "market penetration pricing",
+        "slug": "market-penetration-pricing"
+      },
+      {
+        "title": "Product mix pricing strategies",
+        "slug": "product-mix-pricing-strategies"
+      },
+      {
+        "title": "price adjustment strategies",
+        "slug": "price-adjustment-strategies"
+      },
+      {
+        "title": "Product development and Life Cycle: new product  development strategy",
+        "slug": "product-development-and-life-cycle-new-product-development-strategy"
+      },
+      {
+        "title": "the new product development process",
+        "slug": "the-new-product-development-process"
+      },
+      {
+        "title": "Product life cycle strategies for introductory",
+        "slug": "product-life-cycle-strategies-for-introductory"
+      },
+      {
+        "title": "growth",
+        "slug": "growth"
+      },
+      {
+        "title": "maturity and decline stage",
+        "slug": "maturity-and-decline-stage"
+      },
+      {
+        "title": "Marketing Channels",
+        "slug": "marketing-channels"
+      },
+      {
+        "title": "The Promotion mix: Elements of promotion mix",
+        "slug": "the-promotion-mix-elements-of-promotion-mix"
+      },
+      {
+        "title": "advertising",
+        "slug": "advertising"
+      },
+      {
+        "title": "direct marketing",
+        "slug": "direct-marketing"
+      },
+      {
+        "title": "sales promotion",
+        "slug": "sales-promotion"
+      },
+      {
+        "title": "personal  selling and public relation",
+        "slug": "personal-selling-and-public-relation"
+      },
+      {
+        "title": "Place: Channels of Distribution & Distribution Strategy",
+        "slug": "place-channels-of-distribution-and-distribution-strategy"
+      },
+      {
+        "title": "Needs & Significance of Intermediaries",
+        "slug": "needs-and-significance-of-intermediaries"
+      },
+      {
+        "title": "Functions of  Intermediaries",
+        "slug": "functions-of-intermediaries"
+      },
+      {
+        "title": "Channels of Distribution",
+        "slug": "channels-of-distribution"
+      },
+      {
+        "title": "Selecting Channel  of Distribution",
+        "slug": "selecting-channel-of-distribution"
+      },
+      {
+        "title": "FINAL TERM EXAM",
+        "slug": "final-term-exam"
+      }
+    ]
+  }
+}

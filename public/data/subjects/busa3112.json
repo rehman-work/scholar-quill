@@ -1,0 +1,224 @@
+{
+  "subject": {
+    "title": "Financial Accounting",
+    "subjectCode": "BUSA3112",
+    "topics": [
+      {
+        "title": "Corporations: Organization",
+        "slug": "corporations-organization"
+      },
+      {
+        "title": "Stock Transactions and  Dividends: Brief Review of Fundamental Accounting Concepts",
+        "slug": "stock-transactions-and-dividends-brief-review-of-fundamental-accounting-concepts"
+      },
+      {
+        "title": "Characteristics of Corporation",
+        "slug": "characteristics-of-corporation"
+      },
+      {
+        "title": "Forming a Corporation",
+        "slug": "forming-a-corporation"
+      },
+      {
+        "title": "Stockholder’s Equity",
+        "slug": "stockholders-equity"
+      },
+      {
+        "title": "Classes of Shares and Share Capital",
+        "slug": "classes-of-shares-and-share-capital"
+      },
+      {
+        "title": "Corporations: Organization",
+        "slug": "corporations-organization"
+      },
+      {
+        "title": "Stock Transactions and  Dividends: Recording of Issue of Shares at Par",
+        "slug": "stock-transactions-and-dividends-recording-of-issue-of-shares-at-par"
+      },
+      {
+        "title": "Premium and  Discount",
+        "slug": "premium-and-discount"
+      },
+      {
+        "title": "Accounting for Dividends",
+        "slug": "accounting-for-dividends"
+      },
+      {
+        "title": "Reporting Retained Earnings",
+        "slug": "reporting-retained-earnings"
+      },
+      {
+        "title": "Stock Split",
+        "slug": "stock-split"
+      },
+      {
+        "title": "Inventories: Controlling and Safeguarding Inventory",
+        "slug": "inventories-controlling-and-safeguarding-inventory"
+      },
+      {
+        "title": "Nature and  Classes of Inventories",
+        "slug": "nature-and-classes-of-inventories"
+      },
+      {
+        "title": "Measurement of Inventories as per IAS-",
+        "slug": "measurement-of-inventories-as-per-ias"
+      },
+      {
+        "title": "Reporting Inventory – Periodic and Perpetual Inventory System",
+        "slug": "reporting-inventory-periodic-and-perpetual-inventory-system"
+      },
+      {
+        "title": "Inventory Cost Flow Assumptions",
+        "slug": "inventory-cost-flow-assumptions"
+      },
+      {
+        "title": "Inventories: First in First Out",
+        "slug": "inventories-first-in-first-out"
+      },
+      {
+        "title": "Weighted Average Cost",
+        "slug": "weighted-average-cost"
+      },
+      {
+        "title": "Comparison of Inventory Costing Methods",
+        "slug": "comparison-of-inventory-costing-methods"
+      },
+      {
+        "title": "Valuation at Net  Realizable Value as per IAS-",
+        "slug": "valuation-at-net-realizable-value-as-per-ias"
+      },
+      {
+        "title": "Inventory turnover Ratios",
+        "slug": "inventory-turnover-ratios"
+      },
+      {
+        "title": "Accounting for Receivables: Classification of Receivables",
+        "slug": "accounting-for-receivables-classification-of-receivables"
+      },
+      {
+        "title": "Accounts Receivable",
+        "slug": "accounts-receivable"
+      },
+      {
+        "title": "Notes Receivable",
+        "slug": "notes-receivable"
+      },
+      {
+        "title": "Other Receivables",
+        "slug": "other-receivables"
+      },
+      {
+        "title": "Concept of Bad Debts/Doubtful Debts and Allowance for Bad  Debts",
+        "slug": "concept-of-bad-debtsdoubtful-debts-and-allowance-for-bad-debts"
+      },
+      {
+        "title": "Accounting for Receivables: Uncollectible Receivables",
+        "slug": "accounting-for-receivables-uncollectible-receivables"
+      },
+      {
+        "title": "Methods  of Accounting for Uncollectible Receivable",
+        "slug": "methods-of-accounting-for-uncollectible-receivable"
+      },
+      {
+        "title": "Notes Receivable",
+        "slug": "notes-receivable"
+      },
+      {
+        "title": "Accounting for Notes Receivable",
+        "slug": "accounting-for-notes-receivable"
+      },
+      {
+        "title": "Accounting for Depreciation: Factors in Computing Depreciation  Expense",
+        "slug": "accounting-for-depreciation-factors-in-computing-depreciation-expense"
+      },
+      {
+        "title": "Methods of Depreciation",
+        "slug": "methods-of-depreciation"
+      },
+      {
+        "title": "MID TERM EXAM",
+        "slug": "mid-term-exam"
+      },
+      {
+        "title": "Fixed and Intangible Assets: Nature of Tangible Non-Current  Assets (Fixed Assets)",
+        "slug": "fixed-and-intangible-assets-nature-of-tangible-non-current-assets-fixed-assets"
+      },
+      {
+        "title": "Classifying Costs",
+        "slug": "classifying-costs"
+      },
+      {
+        "title": "Costs of Acquiring  Tangible Non-Current Assets",
+        "slug": "costs-of-acquiring-tangible-non-current-assets"
+      },
+      {
+        "title": "Fixed and Intangible Assets: Capital Expenditure",
+        "slug": "fixed-and-intangible-assets-capital-expenditure"
+      },
+      {
+        "title": "Revenue  Expenditure",
+        "slug": "revenue-expenditure"
+      },
+      {
+        "title": "Nature and Purpose of Depreciation",
+        "slug": "nature-and-purpose-of-depreciation"
+      },
+      {
+        "title": "Disposal of Fixed Assets: Nature of Intangible Non-Current  Assets",
+        "slug": "disposal-of-fixed-assets-nature-of-intangible-non-current-assets"
+      },
+      {
+        "title": "Types of Intangible Assets",
+        "slug": "types-of-intangible-assets"
+      },
+      {
+        "title": "Disposal of Fixed Assets: Amortization of Intangible Assets",
+        "slug": "disposal-of-fixed-assets-amortization-of-intangible-assets"
+      },
+      {
+        "title": "Statement of Cash Flows: Purpose of Statement of Cash flows",
+        "slug": "statement-of-cash-flows-purpose-of-statement-of-cash-flows"
+      },
+      {
+        "title": "Reporting Cash flows",
+        "slug": "reporting-cash-flows"
+      },
+      {
+        "title": "Cash and Cash Equivalent",
+        "slug": "cash-and-cash-equivalent"
+      },
+      {
+        "title": "Classification of  activities",
+        "slug": "classification-of-activities"
+      },
+      {
+        "title": "Statement of Cash Flows: Cash flows from Operating Activities",
+        "slug": "statement-of-cash-flows-cash-flows-from-operating-activities"
+      },
+      {
+        "title": "Cash flows from Investing Activities",
+        "slug": "cash-flows-from-investing-activities"
+      },
+      {
+        "title": "Cash flows from Financing  Activities",
+        "slug": "cash-flows-from-financing-activities"
+      },
+      {
+        "title": "Statement of Cash Flows: Non-Cash Investing and Financing  Activities",
+        "slug": "statement-of-cash-flows-non-cash-investing-and-financing-activities"
+      },
+      {
+        "title": "Treatment of Interest and Dividend",
+        "slug": "treatment-of-interest-and-dividend"
+      },
+      {
+        "title": "Preparing the  Statement of Cash flow",
+        "slug": "preparing-the-statement-of-cash-flow"
+      },
+      {
+        "title": "Final Project Presentations",
+        "slug": "final-project-presentations"
+      }
+    ]
+  }
+}

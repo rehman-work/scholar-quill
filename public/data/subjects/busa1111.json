@@ -1,0 +1,236 @@
+{
+  "subject": {
+    "title": "Introduction to Business",
+    "subjectCode": "BUSA1111",
+    "topics": [
+      {
+        "title": "Introduction and meaning of Business  Concept of business",
+        "slug": "introduction-and-meaning-of-business-concept-of-business"
+      },
+      {
+        "title": "characteristics and importance of  business",
+        "slug": "characteristics-and-importance-of-business"
+      },
+      {
+        "title": "Division of business objectives of business",
+        "slug": "division-of-business-objectives-of-business"
+      },
+      {
+        "title": "Division or component of business",
+        "slug": "division-or-component-of-business"
+      },
+      {
+        "title": "Key stakeholders in business",
+        "slug": "key-stakeholders-in-business"
+      },
+      {
+        "title": "Sole Proprietorship Concept",
+        "slug": "sole-proprietorship-concept"
+      },
+      {
+        "title": "Importance",
+        "slug": "importance"
+      },
+      {
+        "title": "Merits and demerits",
+        "slug": "merits-and-demerits"
+      },
+      {
+        "title": "Legal status of sole  proprietorship",
+        "slug": "legal-status-of-sole-proprietorship"
+      },
+      {
+        "title": "Partnership: Concept",
+        "slug": "partnership-concept"
+      },
+      {
+        "title": "Characteristics",
+        "slug": "characteristics"
+      },
+      {
+        "title": "Registered and Un-registered  partnership",
+        "slug": "registered-and-un-registered-partnership"
+      },
+      {
+        "title": "Partnership Deed",
+        "slug": "partnership-deed"
+      },
+      {
+        "title": "Types of partners",
+        "slug": "types-of-partners"
+      },
+      {
+        "title": "Partnership Rights & liabilities and duties of partners",
+        "slug": "partnership-rights-and-liabilities-and-duties-of-partners"
+      },
+      {
+        "title": "Admission and  withdrawals of partners",
+        "slug": "admission-and-withdrawals-of-partners"
+      },
+      {
+        "title": "The position of a Minor in  partnership",
+        "slug": "the-position-of-a-minor-in-partnership"
+      },
+      {
+        "title": "Registration of a firm",
+        "slug": "registration-of-a-firm"
+      },
+      {
+        "title": "Dissolution of a firm",
+        "slug": "dissolution-of-a-firm"
+      },
+      {
+        "title": "Joint Stock Company: Concept",
+        "slug": "joint-stock-company-concept"
+      },
+      {
+        "title": "Characteristics",
+        "slug": "characteristics"
+      },
+      {
+        "title": "Features",
+        "slug": "features"
+      },
+      {
+        "title": "Merits and demerits",
+        "slug": "merits-and-demerits"
+      },
+      {
+        "title": "Classification of companies",
+        "slug": "classification-of-companies"
+      },
+      {
+        "title": "Meaning of private limited  company",
+        "slug": "meaning-of-private-limited-company"
+      },
+      {
+        "title": "Single member company (SMC)",
+        "slug": "single-member-company-smc"
+      },
+      {
+        "title": "its Merits and  Demerits",
+        "slug": "its-merits-and-demerits"
+      },
+      {
+        "title": "conversion of a private limited company to a public  limited company",
+        "slug": "conversion-of-a-private-limited-company-to-a-public-limited-company"
+      },
+      {
+        "title": "Joint stock company Formation stages",
+        "slug": "joint-stock-company-formation-stages"
+      },
+      {
+        "title": "Promotion and classification of promoters",
+        "slug": "promotion-and-classification-of-promoters"
+      },
+      {
+        "title": "Memorandum of Association",
+        "slug": "memorandum-of-association"
+      },
+      {
+        "title": "Article of Association",
+        "slug": "article-of-association"
+      },
+      {
+        "title": "Prospectus and its purpose",
+        "slug": "prospectus-and-its-purpose"
+      },
+      {
+        "title": "statement in lieu of prospectus",
+        "slug": "statement-in-lieu-of-prospectus"
+      },
+      {
+        "title": "Capital: Classes of capital",
+        "slug": "capital-classes-of-capital"
+      },
+      {
+        "title": "types of shares",
+        "slug": "types-of-shares"
+      },
+      {
+        "title": "Difference between transfer  and transmission of shares",
+        "slug": "difference-between-transfer-and-transmission-of-shares"
+      },
+      {
+        "title": "Debentures and its types",
+        "slug": "debentures-and-its-types"
+      },
+      {
+        "title": "Distinction between shares and debentures",
+        "slug": "distinction-between-shares-and-debentures"
+      },
+      {
+        "title": "IPOs",
+        "slug": "ipos"
+      },
+      {
+        "title": "Underwriting and Dividend: Concept of Initial Public Offering (IPO)",
+        "slug": "underwriting-and-dividend-concept-of-initial-public-offering-ipo"
+      },
+      {
+        "title": "underwriting of shares",
+        "slug": "underwriting-of-shares"
+      },
+      {
+        "title": "Plough back of profit",
+        "slug": "plough-back-of-profit"
+      },
+      {
+        "title": "Dividend",
+        "slug": "dividend"
+      },
+      {
+        "title": "Company Management: Shareholders and their Rights",
+        "slug": "company-management-shareholders-and-their-rights"
+      },
+      {
+        "title": "Basic infrastructural hierarchy  of a company",
+        "slug": "basic-infrastructural-hierarchy-of-a-company"
+      },
+      {
+        "title": "Powers and liabilities of directors",
+        "slug": "powers-and-liabilities-of-directors"
+      },
+      {
+        "title": "Company meetings: Statutory meeting",
+        "slug": "company-meetings-statutory-meeting"
+      },
+      {
+        "title": "Annual general meeting",
+        "slug": "annual-general-meeting"
+      },
+      {
+        "title": "Extra ordinary  general meeting and board meeting along with purpose and  procedure of calling each meeting",
+        "slug": "extra-ordinary-general-meeting-and-board-meeting-along-with-purpose-and-procedure-of-calling-each-meeting"
+      },
+      {
+        "title": "winding up a company: Concept and methods of liquidation of a company with  necessary procedure",
+        "slug": "winding-up-a-company-concept-and-methods-of-liquidation-of-a-company-with-necessary-procedure"
+      },
+      {
+        "title": "Stock Exchanges and Trading of Shares: Introduction of stock  exchange",
+        "slug": "stock-exchanges-and-trading-of-shares-introduction-of-stock-exchange"
+      },
+      {
+        "title": "Different types of Trading Transactions",
+        "slug": "different-types-of-trading-transactions"
+      },
+      {
+        "title": "Exposure of  transfer of shares / trading through online transaction",
+        "slug": "exposure-of-transfer-of-shares-trading-through-online-transaction"
+      },
+      {
+        "title": "Business Risk: Concept of risk",
+        "slug": "business-risk-concept-of-risk"
+      },
+      {
+        "title": "mitigation of risk with Basic  information about Insurance",
+        "slug": "mitigation-of-risk-with-basic-information-about-insurance"
+      },
+      {
+        "title": "Final Project Presentations",
+        "slug": "final-project-presentations"
+      }
+    ]
+  }
+}

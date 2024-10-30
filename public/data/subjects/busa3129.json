@@ -1,0 +1,184 @@
+{
+  "subject": {
+    "title": "Statistical Analysis for Business",
+    "subjectCode": " BUSA3129",
+    "topics": [
+      {
+        "title": "Introduction to Business Statistics:",
+        "slug": "introduction-to-business-statistics"
+      },
+      {
+        "title": "Importance of statistics in business research",
+        "slug": "importance-of-statistics-in-business-research"
+      },
+      {
+        "title": "Types of statistics and measurement scales",
+        "slug": "types-of-statistics-and-measurement-scales"
+      },
+      {
+        "title": "Types of data and variables",
+        "slug": "types-of-data-and-variables"
+      },
+      {
+        "title": "Data collection: primary vs",
+        "slug": "data-collection-primary-vs"
+      },
+      {
+        "title": "secondary",
+        "slug": "secondary"
+      },
+      {
+        "title": "Data Presentation and Central Tendency:",
+        "slug": "data-presentation-and-central-tendency"
+      },
+      {
+        "title": "Grouped vs",
+        "slug": "grouped-vs"
+      },
+      {
+        "title": "ungrouped data",
+        "slug": "ungrouped-data"
+      },
+      {
+        "title": "Frequency distribution and graphical representation",
+        "slug": "frequency-distribution-and-graphical-representation"
+      },
+      {
+        "title": "Measures of central tendency: mean",
+        "slug": "measures-of-central-tendency-mean"
+      },
+      {
+        "title": "median",
+        "slug": "median"
+      },
+      {
+        "title": "mode",
+        "slug": "mode"
+      },
+      {
+        "title": "Application of central tendency measures in business scenarios",
+        "slug": "application-of-central-tendency-measures-in-business-scenarios"
+      },
+      {
+        "title": "Dispersion and Variability Analysis:",
+        "slug": "dispersion-and-variability-analysis"
+      },
+      {
+        "title": "Measures of dispersion: range",
+        "slug": "measures-of-dispersion-range"
+      },
+      {
+        "title": "variance",
+        "slug": "variance"
+      },
+      {
+        "title": "standard deviation",
+        "slug": "standard-deviation"
+      },
+      {
+        "title": "Coefficient of variation and its implications",
+        "slug": "coefficient-of-variation-and-its-implications"
+      },
+      {
+        "title": "Interpreting dispersion for decision-making",
+        "slug": "interpreting-dispersion-for-decision-making"
+      },
+      {
+        "title": "Probability and Normal Distribution:",
+        "slug": "probability-and-normal-distribution"
+      },
+      {
+        "title": "Introduction to probability terminology",
+        "slug": "introduction-to-probability-terminology"
+      },
+      {
+        "title": "Probability rules and applications in business contexts",
+        "slug": "probability-rules-and-applications-in-business-contexts"
+      },
+      {
+        "title": "Normal distribution and its properties",
+        "slug": "normal-distribution-and-its-properties"
+      },
+      {
+        "title": "Using normal distribution for business analysis",
+        "slug": "using-normal-distribution-for-business-analysis"
+      },
+      {
+        "title": "Estimation and Regression Analysis:",
+        "slug": "estimation-and-regression-analysis"
+      },
+      {
+        "title": "Point and interval estimation concepts",
+        "slug": "point-and-interval-estimation-concepts"
+      },
+      {
+        "title": "Least-Squares Regression Line: properties and assumptions",
+        "slug": "least-squares-regression-line-properties-and-assumptions"
+      },
+      {
+        "title": "Calculating and interpreting regression results",
+        "slug": "calculating-and-interpreting-regression-results"
+      },
+      {
+        "title": "Coefficient of determination and correlation coefficient",
+        "slug": "coefficient-of-determination-and-correlation-coefficient"
+      },
+      {
+        "title": "Multivariate Data Analysis and Factor Analysis:",
+        "slug": "multivariate-data-analysis-and-factor-analysis"
+      },
+      {
+        "title": "Multivariate data analysis overview for business",
+        "slug": "multivariate-data-analysis-overview-for-business"
+      },
+      {
+        "title": "Validity concepts and their relevance",
+        "slug": "validity-concepts-and-their-relevance"
+      },
+      {
+        "title": "Exploratory Factor Analysis: uncovering latent patterns",
+        "slug": "exploratory-factor-analysis-uncovering-latent-patterns"
+      },
+      {
+        "title": "Confirmatory Factor Analysis: validating assumptions",
+        "slug": "confirmatory-factor-analysis-validating-assumptions"
+      },
+      {
+        "title": "Multiple Regression and Assumption Testing:",
+        "slug": "multiple-regression-and-assumption-testing"
+      },
+      {
+        "title": "Understanding BLUE (Best Linear Unbiased Estimators)",
+        "slug": "understanding-blue-best-linear-unbiased-estimators"
+      },
+      {
+        "title": "Applying multiple regression analysis in business",
+        "slug": "applying-multiple-regression-analysis-in-business"
+      },
+      {
+        "title": "Testing assumptions: multicollinearity",
+        "slug": "testing-assumptions-multicollinearity"
+      },
+      {
+        "title": "homoscedasticity",
+        "slug": "homoscedasticity"
+      },
+      {
+        "title": "linearity",
+        "slug": "linearity"
+      },
+      {
+        "title": "Interpretation and Application:",
+        "slug": "interpretation-and-application"
+      },
+      {
+        "title": "Emphasis on interpretation of statistical results",
+        "slug": "emphasis-on-interpretation-of-statistical-results"
+      },
+      {
+        "title": "Real-world application of statistics using data analysis software",
+        "slug": "real-world-application-of-statistics-using-data-analysis-software"
+      }
+    ]
+  }
+}

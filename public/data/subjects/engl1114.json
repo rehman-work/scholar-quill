@@ -4,120 +4,288 @@
     "subjectCode": "ENGL1114",
     "topics": [
       {
-        "title": " Basics:  Parts of Speech  Phrase",
-        "slug": "basics-parts-of-speech-phrase"
+        "title": "Foundations of Functional English:",
+        "slug": "foundations-of-functional-english"
       },
       {
-        "title": "clause and sentence structure  Combining sentences  Tenses: meaning and use  Modals  Use of active and passive voice  Reported Speech  Write a good sentence  Writing a paragraph",
-        "slug": "clause-and-sentence-structure-combining-sentences-tenses-meaning-and-use-modals-use-of-active-and-passive-voice-reported-speech-write-a-good-sentence-writing-a-paragraph"
+        "title": "Vocabulary building (contextual usage",
+        "slug": "vocabulary-building-contextual-usage"
       },
       {
-        "title": "stay on point with the topic sentence (unity)",
-        "slug": "stay-on-point-with-the-topic-sentence-unity"
+        "title": "synonyms",
+        "slug": "synonyms"
       },
       {
-        "title": "generate sentences that support the topic sentence with facts",
-        "slug": "generate-sentences-that-support-the-topic-sentence-with-facts"
+        "title": "antonyms and idiomatic  expressions)",
+        "slug": "antonyms-and-idiomatic-expressions"
       },
       {
-        "title": "details and examples (support)",
-        "slug": "details-and-examples-support"
+        "title": "Communicative grammar (subject-verb-agreement",
+        "slug": "communicative-grammar-subject-verb-agreement"
       },
       {
-        "title": "link support sentences using appropriate order (time",
-        "slug": "link-support-sentences-using-appropriate-order-time"
+        "title": "verb tenses",
+        "slug": "verb-tenses"
       },
       {
-        "title": "space",
-        "slug": "space"
+        "title": "fragments",
+        "slug": "fragments"
       },
       {
-        "title": "Importance) (unity and support)",
-        "slug": "importance-unity-and-support"
+        "title": "run-ons",
+        "slug": "run-ons"
       },
       {
-        "title": "link support sentences together using transitions (coherence)  Identify patterns of development in paragraphs (types of paragraphs)",
-        "slug": "link-support-sentences-together-using-transitions-coherence-identify-patterns-of-development-in-paragraphs-types-of-paragraphs"
+        "title": "modifiers",
+        "slug": "modifiers"
       },
       {
-        "title": "produce at least two different types of paragraphs (for example",
-        "slug": "produce-at-least-two-different-types-of-paragraphs-for-example"
+        "title": "articles",
+        "slug": "articles"
       },
       {
-        "title": "narration",
-        "slug": "narration"
+        "title": "word classes",
+        "slug": "word-classes"
       },
       {
-        "title": "description",
-        "slug": "description"
+        "title": "etc",
+        "slug": "etc"
       },
       {
-        "title": "illustration)  Begin to develop the ability to revise one’s own work",
-        "slug": "illustration-begin-to-develop-the-ability-to-revise-ones-own-work"
+        "title": ")",
+        "slug": ""
       },
       {
-        "title": "recognize unified paragraphs recognize paragraphs with adequate support",
-        "slug": "recognize-unified-paragraphs-recognize-paragraphs-with-adequate-support"
+        "title": "Word formation (affixation",
+        "slug": "word-formation-affixation"
       },
       {
-        "title": "recognize coherence in paragraphs",
-        "slug": "recognize-coherence-in-paragraphs"
+        "title": "compounding",
+        "slug": "compounding"
       },
       {
-        "title": "identify one’s writing challenges and develop strategies to address those challenges (lab with tutor",
-        "slug": "identify-ones-writing-challenges-and-develop-strategies-to-address-those-challenges-lab-with-tutor"
+        "title": "clipping",
+        "slug": "clipping"
       },
       {
-        "title": "grammar log",
-        "slug": "grammar-log"
+        "title": "back formation",
+        "slug": "back-formation"
       },
       {
-        "title": "revision checklist",
-        "slug": "revision-checklist"
+        "title": "etc",
+        "slug": "etc"
       },
       {
-        "title": "etc)  Develop an effective system of record keeping and academic organizational strategies",
-        "slug": "etc-develop-an-effective-system-of-record-keeping-and-academic-organizational-strategies"
+        "title": ")",
+        "slug": ""
       },
       {
-        "title": "organize class materials (syllabus",
-        "slug": "organize-class-materials-syllabus"
+        "title": "Sentence structure (simple",
+        "slug": "sentence-structure-simple"
       },
       {
-        "title": "handouts",
-        "slug": "handouts"
+        "title": "compound",
+        "slug": "compound"
       },
       {
-        "title": "notes",
-        "slug": "notes"
+        "title": "complex and compound-complex)",
+        "slug": "complex-and-compound-complex"
       },
       {
-        "title": "written work)",
-        "slug": "written-work"
+        "title": "Sound  production and pronunciation",
+        "slug": "sound-production-and-pronunciation"
       },
       {
-        "title": "track one’s own progress  Oral presentation and effective delivery  Steps for preparing effective oral presentations",
-        "slug": "track-ones-own-progress-oral-presentation-and-effective-delivery-steps-for-preparing-effective-oral-presentations"
+        "title": "Comprehension and Analysis:",
+        "slug": "comprehension-and-analysis"
       },
       {
-        "title": " Determine the purpose  Analyze your audience  Select main ideas and search topic  Organize the data and write draft  Create visual aids  Rehearse your talk  Strategies for improving oral presentations  Steps for preparing effective oral presentations",
-        "slug": "determine-the-purpose-analyze-your-audience-select-main-ideas-and-search-topic-organize-the-data-and-write-draft-create-visual-aids-rehearse-your-talk-strategies-for-improving-oral-presentations-steps-for-preparing-effective-oral-presentations"
+        "title": "Understanding purpose",
+        "slug": "understanding-purpose"
       },
       {
-        "title": " Kinds of oral presentations",
-        "slug": "kinds-of-oral-presentations"
+        "title": "audience and context",
+        "slug": "audience-and-context"
       },
       {
-        "title": " Strategies for using an effective oral delivery",
-        "slug": "strategies-for-using-an-effective-oral-delivery"
+        "title": "Contextual interpretation (tones",
+        "slug": "contextual-interpretation-tones"
       },
       {
-        "title": " Strategies for effective non-verbal delivery",
-        "slug": "strategies-for-effective-non-verbal-delivery"
+        "title": "biases",
+        "slug": "biases"
       },
       {
-        "title": "Strategies for using an effective oral delivery  Pitch  Rate  Vocals  Pronunciation",
-        "slug": "strategies-for-using-an-effective-oral-delivery-pitch-rate-vocals-pronunciation"
+        "title": "stereotypes",
+        "slug": "stereotypes"
+      },
+      {
+        "title": "assumptions",
+        "slug": "assumptions"
+      },
+      {
+        "title": "inferences",
+        "slug": "inferences"
+      },
+      {
+        "title": "etc",
+        "slug": "etc"
+      },
+      {
+        "title": ")",
+        "slug": ""
+      },
+      {
+        "title": "Reading strategies (skimming",
+        "slug": "reading-strategies-skimming"
+      },
+      {
+        "title": "scanning",
+        "slug": "scanning"
+      },
+      {
+        "title": "SQ4R",
+        "slug": "sq4r"
+      },
+      {
+        "title": "critical reading",
+        "slug": "critical-reading"
+      },
+      {
+        "title": "etc",
+        "slug": "etc"
+      },
+      {
+        "title": ")",
+        "slug": ""
+      },
+      {
+        "title": "Active listening (overcoming listening barriers",
+        "slug": "active-listening-overcoming-listening-barriers"
+      },
+      {
+        "title": "focused listening",
+        "slug": "focused-listening"
+      },
+      {
+        "title": "etc",
+        "slug": "etc"
+      },
+      {
+        "title": ")",
+        "slug": ""
+      },
+      {
+        "title": "Effective Communication:",
+        "slug": "effective-communication"
+      },
+      {
+        "title": "Principles of communication (clarity",
+        "slug": "principles-of-communication-clarity"
+      },
+      {
+        "title": "coherence",
+        "slug": "coherence"
+      },
+      {
+        "title": "conciseness",
+        "slug": "conciseness"
+      },
+      {
+        "title": "courteousness",
+        "slug": "courteousness"
+      },
+      {
+        "title": "correctness",
+        "slug": "correctness"
+      },
+      {
+        "title": "etc",
+        "slug": "etc"
+      },
+      {
+        "title": ")",
+        "slug": ""
+      },
+      {
+        "title": "Structuring documents (introduction",
+        "slug": "structuring-documents-introduction"
+      },
+      {
+        "title": "body",
+        "slug": "body"
+      },
+      {
+        "title": "conclusion and formatting)",
+        "slug": "conclusion-and-formatting"
+      },
+      {
+        "title": "Inclusivity in communication (gender-neutral language",
+        "slug": "inclusivity-in-communication-gender-neutral-language"
+      },
+      {
+        "title": "stereotypes",
+        "slug": "stereotypes"
+      },
+      {
+        "title": "crosscultural  communication",
+        "slug": "crosscultural-communication"
+      },
+      {
+        "title": "etc",
+        "slug": "etc"
+      },
+      {
+        "title": ")",
+        "slug": ""
+      },
+      {
+        "title": "Public speaking (overcoming stage fright",
+        "slug": "public-speaking-overcoming-stage-fright"
+      },
+      {
+        "title": "voice modulation and body language)",
+        "slug": "voice-modulation-and-body-language"
+      },
+      {
+        "title": "Presentation skills (organization content",
+        "slug": "presentation-skills-organization-content"
+      },
+      {
+        "title": "visual aids and engaging the audience)",
+        "slug": "visual-aids-and-engaging-the-audience"
+      },
+      {
+        "title": "Informal communication (small talk",
+        "slug": "informal-communication-small-talk"
+      },
+      {
+        "title": "networking and conversational skills)",
+        "slug": "networking-and-conversational-skills"
+      },
+      {
+        "title": "Professional writing (business e-mails",
+        "slug": "professional-writing-business-e-mails"
+      },
+      {
+        "title": "memos",
+        "slug": "memos"
+      },
+      {
+        "title": "reports",
+        "slug": "reports"
+      },
+      {
+        "title": "formal letters",
+        "slug": "formal-letters"
+      },
+      {
+        "title": "etc",
+        "slug": "etc"
+      },
+      {
+        "title": ")",
+        "slug": ""
       }
     ]
   }

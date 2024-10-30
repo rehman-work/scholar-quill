@@ -1,0 +1,212 @@
+{
+  "subject": {
+    "title": "What is Science?",
+    "subjectCode": "GSCI1111",
+    "topics": [
+      {
+        "title": "Introduction to Science",
+        "slug": "introduction-to-science"
+      },
+      {
+        "title": "What qualifies as science?",
+        "slug": "what-qualifies-as-science"
+      },
+      {
+        "title": "Branches of Science",
+        "slug": "branches-of-science"
+      },
+      {
+        "title": "Scientific method of  study",
+        "slug": "scientific-method-of-study"
+      },
+      {
+        "title": "Prehistory",
+        "slug": "prehistory"
+      },
+      {
+        "title": "Mesopotamia & Egypt",
+        "slug": "mesopotamia-and-egypt"
+      },
+      {
+        "title": "Greeks",
+        "slug": "greeks"
+      },
+      {
+        "title": "China",
+        "slug": "china"
+      },
+      {
+        "title": "South Asia",
+        "slug": "south-asia"
+      },
+      {
+        "title": "Arab/Islamic",
+        "slug": "arabislamic"
+      },
+      {
+        "title": "European  Scientific Method across Civilizations",
+        "slug": "european-scientific-method-across-civilizations"
+      },
+      {
+        "title": "Vectors and scalars",
+        "slug": "vectors-and-scalars"
+      },
+      {
+        "title": "Frames of reference",
+        "slug": "frames-of-reference"
+      },
+      {
+        "title": "Frictional forces",
+        "slug": "frictional-forces"
+      },
+      {
+        "title": "Sound and its characteristics",
+        "slug": "sound-and-its-characteristics"
+      },
+      {
+        "title": "Types of energy",
+        "slug": "types-of-energy"
+      },
+      {
+        "title": "Light and its color",
+        "slug": "light-and-its-color"
+      },
+      {
+        "title": "How we see thing",
+        "slug": "how-we-see-thing"
+      },
+      {
+        "title": "Fields  (electric and magnetic)",
+        "slug": "fields-electric-and-magnetic"
+      },
+      {
+        "title": "Resistance",
+        "slug": "resistance"
+      },
+      {
+        "title": "resistivity",
+        "slug": "resistivity"
+      },
+      {
+        "title": "resistors and their types",
+        "slug": "resistors-and-their-types"
+      },
+      {
+        "title": "capacitance",
+        "slug": "capacitance"
+      },
+      {
+        "title": "capacitors and  their types",
+        "slug": "capacitors-and-their-types"
+      },
+      {
+        "title": "uses of capacitors",
+        "slug": "uses-of-capacitors"
+      },
+      {
+        "title": "ammeter",
+        "slug": "ammeter"
+      },
+      {
+        "title": "voltmeter",
+        "slug": "voltmeter"
+      },
+      {
+        "title": "DC motor",
+        "slug": "dc-motor"
+      },
+      {
+        "title": "electric generator",
+        "slug": "electric-generator"
+      },
+      {
+        "title": "UPS",
+        "slug": "ups"
+      },
+      {
+        "title": "Chemistry in our lives",
+        "slug": "chemistry-in-our-lives"
+      },
+      {
+        "title": "Discoloration of leaves",
+        "slug": "discoloration-of-leaves"
+      },
+      {
+        "title": "Food preservatives",
+        "slug": "food-preservatives"
+      },
+      {
+        "title": "the chemistry of baking",
+        "slug": "the-chemistry-of-baking"
+      },
+      {
+        "title": "Tears  while chopping onions",
+        "slug": "tears-while-chopping-onions"
+      },
+      {
+        "title": "Sunscreen",
+        "slug": "sunscreen"
+      },
+      {
+        "title": "Medicines",
+        "slug": "medicines"
+      },
+      {
+        "title": "Origin of life on Earth",
+        "slug": "origin-of-life-on-earth"
+      },
+      {
+        "title": "Cell: a basic unit of animal  life",
+        "slug": "cell-a-basic-unit-of-animal-life"
+      },
+      {
+        "title": "Basics of animal kingdom",
+        "slug": "basics-of-animal-kingdom"
+      },
+      {
+        "title": "the classification of plants",
+        "slug": "the-classification-of-plants"
+      },
+      {
+        "title": "Importance of plants in different  industries (Agriculture",
+        "slug": "importance-of-plants-in-different-industries-agriculture"
+      },
+      {
+        "title": "Food",
+        "slug": "food"
+      },
+      {
+        "title": "Medicine",
+        "slug": "medicine"
+      },
+      {
+        "title": "Textile",
+        "slug": "textile"
+      },
+      {
+        "title": "etc",
+        "slug": "etc"
+      },
+      {
+        "title": ")",
+        "slug": ""
+      },
+      {
+        "title": "Structure of Earth",
+        "slug": "structure-of-earth"
+      },
+      {
+        "title": "three basic Rocks on  earth (Igneous Sedimentary",
+        "slug": "three-basic-rocks-on-earth-igneous-sedimentary"
+      },
+      {
+        "title": "Metamorphic)",
+        "slug": "metamorphic"
+      },
+      {
+        "title": "Tectonics plates and Earth Quakes",
+        "slug": "tectonics-plates-and-earth-quakes"
+      }
+    ]
+  }
+}

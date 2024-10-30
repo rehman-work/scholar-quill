@@ -1,0 +1,332 @@
+{
+  "subject": {
+    "title": "Business Communication I",
+    "subjectCode": "BUSA3114 ",
+    "topics": [
+      {
+        "title": "Effective communication in Business: Definition of business communication",
+        "slug": "effective-communication-in-business-definition-of-business-communication"
+      },
+      {
+        "title": "Importance  of communication",
+        "slug": "importance-of-communication"
+      },
+      {
+        "title": "Purpose of communication",
+        "slug": "purpose-of-communication"
+      },
+      {
+        "title": "Means of communication",
+        "slug": "means-of-communication"
+      },
+      {
+        "title": "Modes of  communication",
+        "slug": "modes-of-communication"
+      },
+      {
+        "title": "Formal and Informal (Grapevine) Communication",
+        "slug": "formal-and-informal-grapevine-communication"
+      },
+      {
+        "title": "Oral and Written  Communication",
+        "slug": "oral-and-written-communication"
+      },
+      {
+        "title": "Non-Verbal Communication",
+        "slug": "non-verbal-communication"
+      },
+      {
+        "title": "Downward and Upward Communication",
+        "slug": "downward-and-upward-communication"
+      },
+      {
+        "title": "Lateral or Horizontal Communication",
+        "slug": "lateral-or-horizontal-communication"
+      },
+      {
+        "title": "Communication cycle",
+        "slug": "communication-cycle"
+      },
+      {
+        "title": "Elements of communication  cycle",
+        "slug": "elements-of-communication-cycle"
+      },
+      {
+        "title": "Interpersonal communication and its principles",
+        "slug": "interpersonal-communication-and-its-principles"
+      },
+      {
+        "title": "Interpersonal communication is  unavoidable",
+        "slug": "interpersonal-communication-is-unavoidable"
+      },
+      {
+        "title": "Interpersonal communication is irreversible",
+        "slug": "interpersonal-communication-is-irreversible"
+      },
+      {
+        "title": "Interpersonal communication  involves the process of adjustment",
+        "slug": "interpersonal-communication-involves-the-process-of-adjustment"
+      },
+      {
+        "title": "Interpersonal communication have content and  relationship dimensions",
+        "slug": "interpersonal-communication-have-content-and-relationship-dimensions"
+      },
+      {
+        "title": "Interpersonal communication is symbolic",
+        "slug": "interpersonal-communication-is-symbolic"
+      },
+      {
+        "title": "Interpersonal  communication is rule-governed",
+        "slug": "interpersonal-communication-is-rule-governed"
+      },
+      {
+        "title": "Interpersonal communication is learned",
+        "slug": "interpersonal-communication-is-learned"
+      },
+      {
+        "title": "Problems of communication: Barriers of Communication",
+        "slug": "problems-of-communication-barriers-of-communication"
+      },
+      {
+        "title": "Noise",
+        "slug": "noise"
+      },
+      {
+        "title": "Types of Noise – Physical",
+        "slug": "types-of-noise-physical"
+      },
+      {
+        "title": "Physiological",
+        "slug": "physiological"
+      },
+      {
+        "title": "Psychological and Semantic",
+        "slug": "psychological-and-semantic"
+      },
+      {
+        "title": "Redundancy",
+        "slug": "redundancy"
+      },
+      {
+        "title": "The importance of  context – Physical context",
+        "slug": "the-importance-of-context-physical-context"
+      },
+      {
+        "title": "Cultural context",
+        "slug": "cultural-context"
+      },
+      {
+        "title": "Distortion versus Noise",
+        "slug": "distortion-versus-noise"
+      },
+      {
+        "title": "Perception",
+        "slug": "perception"
+      },
+      {
+        "title": "Selective  Perception",
+        "slug": "selective-perception"
+      },
+      {
+        "title": "Language",
+        "slug": "language"
+      },
+      {
+        "title": "Gender Styles",
+        "slug": "gender-styles"
+      },
+      {
+        "title": "Non-verbal Cues",
+        "slug": "non-verbal-cues"
+      },
+      {
+        "title": "Defects in message itself",
+        "slug": "defects-in-message-itself"
+      },
+      {
+        "title": "Barriers  of verbal interaction",
+        "slug": "barriers-of-verbal-interaction"
+      },
+      {
+        "title": "Polarization",
+        "slug": "polarization"
+      },
+      {
+        "title": "Intentional Orientation",
+        "slug": "intentional-orientation"
+      },
+      {
+        "title": "All ness",
+        "slug": "all-ness"
+      },
+      {
+        "title": "Static Evaluation",
+        "slug": "static-evaluation"
+      },
+      {
+        "title": "Indiscrimination  Seven C’s of effective communication: Completeness",
+        "slug": "indiscrimination-seven-cs-of-effective-communication-completeness"
+      },
+      {
+        "title": "Conciseness",
+        "slug": "conciseness"
+      },
+      {
+        "title": "Consideration",
+        "slug": "consideration"
+      },
+      {
+        "title": "Concreteness",
+        "slug": "concreteness"
+      },
+      {
+        "title": "Clarity",
+        "slug": "clarity"
+      },
+      {
+        "title": "Courtesy",
+        "slug": "courtesy"
+      },
+      {
+        "title": "and Correctness  Preparing Effective Business Message: Three-step writing process",
+        "slug": "and-correctness-preparing-effective-business-message-three-step-writing-process"
+      },
+      {
+        "title": "Direct and Indirect  approach",
+        "slug": "direct-and-indirect-approach"
+      },
+      {
+        "title": "Routine",
+        "slug": "routine"
+      },
+      {
+        "title": "Good news and Positive messages",
+        "slug": "good-news-and-positive-messages"
+      },
+      {
+        "title": "Bad News and Negative messages",
+        "slug": "bad-news-and-negative-messages"
+      },
+      {
+        "title": "Persuasive messages  Appearance",
+        "slug": "persuasive-messages-appearance"
+      },
+      {
+        "title": "Design and Drafting of business messages: Business letters and standard  parts",
+        "slug": "design-and-drafting-of-business-messages-business-letters-and-standard-parts"
+      },
+      {
+        "title": "Specialized Parts of business letters",
+        "slug": "specialized-parts-of-business-letters"
+      },
+      {
+        "title": "Style of business messages – Full Block Form",
+        "slug": "style-of-business-messages-full-block-form"
+      },
+      {
+        "title": "Business to Business and Business to Customers Letters",
+        "slug": "business-to-business-and-business-to-customers-letters"
+      },
+      {
+        "title": "Making Routine Requests Strategy: Asking/Seeking Information Enquiry Letters",
+        "slug": "making-routine-requests-strategy-askingseeking-information-enquiry-letters"
+      },
+      {
+        "title": "Writing Good and Bad news: Delivering Good news messages",
+        "slug": "writing-good-and-bad-news-delivering-good-news-messages"
+      },
+      {
+        "title": "Announcing Good news  Letters or Good will messages",
+        "slug": "announcing-good-news-letters-or-good-will-messages"
+      },
+      {
+        "title": "Letter congratulating on a promotion",
+        "slug": "letter-congratulating-on-a-promotion"
+      },
+      {
+        "title": "Letter expressing  gratitude/ thanks",
+        "slug": "letter-expressing-gratitude-thanks"
+      },
+      {
+        "title": "Letter regretting price increase  Delivering Bad news messages: Refusing Claims and requests for Adjustments",
+        "slug": "letter-regretting-price-increase-delivering-bad-news-messages-refusing-claims-and-requests-for-adjustments"
+      },
+      {
+        "title": "Terminating Employment Letter",
+        "slug": "terminating-employment-letter"
+      },
+      {
+        "title": "Rejecting Job Application",
+        "slug": "rejecting-job-application"
+      },
+      {
+        "title": "Letter to raise grievance at  work e",
+        "slug": "letter-to-raise-grievance-at-work-e"
+      },
+      {
+        "title": "g",
+        "slug": "g"
+      },
+      {
+        "title": ": equity in pay",
+        "slug": "equity-in-pay"
+      },
+      {
+        "title": "discrimination",
+        "slug": "discrimination"
+      },
+      {
+        "title": "Letter of condolence to an employee  Writing Persuasive messages: AIDA Plan – Attention",
+        "slug": "letter-of-condolence-to-an-employee-writing-persuasive-messages-aida-plan-attention"
+      },
+      {
+        "title": "Interest",
+        "slug": "interest"
+      },
+      {
+        "title": "Desire and Action",
+        "slug": "desire-and-action"
+      },
+      {
+        "title": "Newspaper announcements for business",
+        "slug": "newspaper-announcements-for-business"
+      },
+      {
+        "title": "Announcing new product or service through  advertisement",
+        "slug": "announcing-new-product-or-service-through-advertisement"
+      },
+      {
+        "title": "Announcement of death of employee/ Obituary in newspaper",
+        "slug": "announcement-of-death-of-employee-obituary-in-newspaper"
+      },
+      {
+        "title": "Announcement  of employee retirement  Public service announcement on social and environmental issues e",
+        "slug": "announcement-of-employee-retirement-public-service-announcement-on-social-and-environmental-issues-e"
+      },
+      {
+        "title": "g",
+        "slug": "g"
+      },
+      {
+        "title": ": Use of Plastic  bags",
+        "slug": "use-of-plastic-bags"
+      },
+      {
+        "title": "Save Water / trees",
+        "slug": "save-water-trees"
+      },
+      {
+        "title": "Safe Drive",
+        "slug": "safe-drive"
+      },
+      {
+        "title": "Food wastage",
+        "slug": "food-wastage"
+      },
+      {
+        "title": "Animal Abuse",
+        "slug": "animal-abuse"
+      }
+    ]
+  }
+}

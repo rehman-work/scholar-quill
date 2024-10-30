@@ -1,0 +1,252 @@
+{
+  "subject": {
+    "title": "Principles of Microeconomics",
+    "subjectCode": "ECON1111",
+    "topics": [
+      {
+        "title": "Introduction: Economics",
+        "slug": "introduction-economics"
+      },
+      {
+        "title": "Micro-economics",
+        "slug": "micro-economics"
+      },
+      {
+        "title": "Macro-economics",
+        "slug": "macro-economics"
+      },
+      {
+        "title": "Scarcity and choice",
+        "slug": "scarcity-and-choice"
+      },
+      {
+        "title": "Rational Behavior",
+        "slug": "rational-behavior"
+      },
+      {
+        "title": "Limited Income",
+        "slug": "limited-income"
+      },
+      {
+        "title": "Unlimited  Wants",
+        "slug": "unlimited-wants"
+      },
+      {
+        "title": "A Budget Line",
+        "slug": "a-budget-line"
+      },
+      {
+        "title": "Factors of Productions",
+        "slug": "factors-of-productions"
+      },
+      {
+        "title": "Production Possibility Curve: Definition",
+        "slug": "production-possibility-curve-definition"
+      },
+      {
+        "title": "Assumptions",
+        "slug": "assumptions"
+      },
+      {
+        "title": "Law of  Increasing Opportunity Cost",
+        "slug": "law-of-increasing-opportunity-cost"
+      },
+      {
+        "title": "The Market System: Introduction of four economic systems",
+        "slug": "the-market-system-introduction-of-four-economic-systems"
+      },
+      {
+        "title": "Capitalism",
+        "slug": "capitalism"
+      },
+      {
+        "title": "Socialism",
+        "slug": "socialism"
+      },
+      {
+        "title": "Mixed Economies and Islamic Economic  system",
+        "slug": "mixed-economies-and-islamic-economic-system"
+      },
+      {
+        "title": "-",
+        "slug": ""
+      },
+      {
+        "title": "Demand",
+        "slug": "demand"
+      },
+      {
+        "title": "Supply and Market Equilibrium: Law of demand",
+        "slug": "supply-and-market-equilibrium-law-of-demand"
+      },
+      {
+        "title": "the  demand curve",
+        "slug": "the-demand-curve"
+      },
+      {
+        "title": "Market Demand",
+        "slug": "market-demand"
+      },
+      {
+        "title": "Changes in Demand",
+        "slug": "changes-in-demand"
+      },
+      {
+        "title": "Changes in  Quantity Demanded",
+        "slug": "changes-in-quantity-demanded"
+      },
+      {
+        "title": "Law of Supply",
+        "slug": "law-of-supply"
+      },
+      {
+        "title": "the Supply Curve",
+        "slug": "the-supply-curve"
+      },
+      {
+        "title": "Market  Supply",
+        "slug": "market-supply"
+      },
+      {
+        "title": "Change in Supply Curve",
+        "slug": "change-in-supply-curve"
+      },
+      {
+        "title": "Changes in Quantity Supplied",
+        "slug": "changes-in-quantity-supplied"
+      },
+      {
+        "title": "Market Equilibrium",
+        "slug": "market-equilibrium"
+      },
+      {
+        "title": "Equilibrium Prices and Quantity",
+        "slug": "equilibrium-prices-and-quantity"
+      },
+      {
+        "title": "Changes in  Supply",
+        "slug": "changes-in-supply"
+      },
+      {
+        "title": "Demand and Equilibrium",
+        "slug": "demand-and-equilibrium"
+      },
+      {
+        "title": "Elasticity: Price Elasticity of Demand",
+        "slug": "elasticity-price-elasticity-of-demand"
+      },
+      {
+        "title": "Formula",
+        "slug": "formula"
+      },
+      {
+        "title": "Determinants of  Price Elasticity of Demand",
+        "slug": "determinants-of-price-elasticity-of-demand"
+      },
+      {
+        "title": "Cross Elasticity",
+        "slug": "cross-elasticity"
+      },
+      {
+        "title": "Income Elasticity of  Demand",
+        "slug": "income-elasticity-of-demand"
+      },
+      {
+        "title": "MID TERM EXAM",
+        "slug": "mid-term-exam"
+      },
+      {
+        "title": "Consumer Behaviour: Law of Diminishing Marginal Utility",
+        "slug": "consumer-behaviour-law-of-diminishing-marginal-utility"
+      },
+      {
+        "title": "Total  Utility",
+        "slug": "total-utility"
+      },
+      {
+        "title": "Marginal Utility and their relations",
+        "slug": "marginal-utility-and-their-relations"
+      },
+      {
+        "title": "Consumer Choice and the  Budget Constraint",
+        "slug": "consumer-choice-and-the-budget-constraint"
+      },
+      {
+        "title": "Utility Maximizing Rule",
+        "slug": "utility-maximizing-rule"
+      },
+      {
+        "title": "The Indifference Curve",
+        "slug": "the-indifference-curve"
+      },
+      {
+        "title": "Problem Solving",
+        "slug": "problem-solving"
+      },
+      {
+        "title": "Class Activity",
+        "slug": "class-activity"
+      },
+      {
+        "title": "-",
+        "slug": ""
+      },
+      {
+        "title": "The Cost of Production: Economic Cost and Financial Cost",
+        "slug": "the-cost-of-production-economic-cost-and-financial-cost"
+      },
+      {
+        "title": "Short  Run Production Costs",
+        "slug": "short-run-production-costs"
+      },
+      {
+        "title": "Long Run Production Cost",
+        "slug": "long-run-production-cost"
+      },
+      {
+        "title": "Pure Competition in The Short Run: Pure competition  characteristics",
+        "slug": "pure-competition-in-the-short-run-pure-competition-characteristics"
+      },
+      {
+        "title": "Demand seen in SR",
+        "slug": "demand-seen-in-sr"
+      },
+      {
+        "title": "Profit Maximization in the SR",
+        "slug": "profit-maximization-in-the-sr"
+      },
+      {
+        "title": "Supply Curve",
+        "slug": "supply-curve"
+      },
+      {
+        "title": "Pure competition in the Long Run",
+        "slug": "pure-competition-in-the-long-run"
+      },
+      {
+        "title": "Pure Monopoly: Characteristics of Monopoly",
+        "slug": "pure-monopoly-characteristics-of-monopoly"
+      },
+      {
+        "title": "Demand",
+        "slug": "demand"
+      },
+      {
+        "title": "Output and  Discrimination of Price",
+        "slug": "output-and-discrimination-of-price"
+      },
+      {
+        "title": "Monopolistic Competition and Oligopoly: Characteristics",
+        "slug": "monopolistic-competition-and-oligopoly-characteristics"
+      },
+      {
+        "title": "determination of Price and Output in Monopolistic Competition in short  run and long run",
+        "slug": "determination-of-price-and-output-in-monopolistic-competition-in-short-run-and-long-run"
+      },
+      {
+        "title": "Introduction of Oligopoly and Prisoner’s Dilemma",
+        "slug": "introduction-of-oligopoly-and-prisoners-dilemma"
+      }
+    ]
+  }
+}

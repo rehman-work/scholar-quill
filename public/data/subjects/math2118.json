@@ -1,0 +1,132 @@
+{
+  "subject": {
+    "title": "Tools for Quantitative Reasoning",
+    "subjectCode": "MATH2118",
+    "topics": [
+      {
+        "title": "Logic",
+        "slug": "logic"
+      },
+      {
+        "title": "Logical and Critical Reasoning",
+        "slug": "logical-and-critical-reasoning"
+      },
+      {
+        "title": "Introduction and importance of logic",
+        "slug": "introduction-and-importance-of-logic"
+      },
+      {
+        "title": "Inductive",
+        "slug": "inductive"
+      },
+      {
+        "title": "deductive and abductive approaches Of reasoning",
+        "slug": "deductive-and-abductive-approaches-of-reasoning"
+      },
+      {
+        "title": "Propositions",
+        "slug": "propositions"
+      },
+      {
+        "title": "arguments (valid: invalid)",
+        "slug": "arguments-valid-invalid"
+      },
+      {
+        "title": "logical connectives",
+        "slug": "logical-connectives"
+      },
+      {
+        "title": "truth tables and propositional equivalences",
+        "slug": "truth-tables-and-propositional-equivalences"
+      },
+      {
+        "title": "Logical fallacies",
+        "slug": "logical-fallacies"
+      },
+      {
+        "title": "Venn Diagrams",
+        "slug": "venn-diagrams"
+      },
+      {
+        "title": "Predicates and quantifiers",
+        "slug": "predicates-and-quantifiers"
+      },
+      {
+        "title": "Quantitative jeasoning exercises using logical reasoning concepts and techniques",
+        "slug": "quantitative-jeasoning-exercises-using-logical-reasoning-concepts-and-techniques"
+      },
+      {
+        "title": "Mathematical Modeling and Analyses",
+        "slug": "mathematical-modeling-and-analyses"
+      },
+      {
+        "title": "Introduction to deterministic tnodels",
+        "slug": "introduction-to-deterministic-tnodels"
+      },
+      {
+        "title": "Use of linear functions",
+        "slug": "use-of-linear-functions"
+      },
+      {
+        "title": "' Inodeling in real-world situations",
+        "slug": "inodeling-in-real-world-situations"
+      },
+      {
+        "title": "Modeling with the systcnn of linear equations and their solutions",
+        "slug": "modeling-with-the-systcnn-of-linear-equations-and-their-solutions"
+      },
+      {
+        "title": "Elementary introduction to derivatives in mathematical modeling",
+        "slug": "elementary-introduction-to-derivatives-in-mathematical-modeling"
+      },
+      {
+        "title": "Linear and exponential growth and decay models",
+        "slug": "linear-and-exponential-growth-and-decay-models"
+      },
+      {
+        "title": "Quantitative reasoning exercises using mathematical modeling",
+        "slug": "quantitative-reasoning-exercises-using-mathematical-modeling"
+      },
+      {
+        "title": "Statistical Modeling and Analyses",
+        "slug": "statistical-modeling-and-analyses"
+      },
+      {
+        "title": "Introduction to probabilistic models:",
+        "slug": "introduction-to-probabilistic-models"
+      },
+      {
+        "title": "Bivariate analysis",
+        "slug": "bivariate-analysis"
+      },
+      {
+        "title": "scatter plots",
+        "slug": "scatter-plots"
+      },
+      {
+        "title": "Simple linear regression model and correlation analysis",
+        "slug": "simple-linear-regression-model-and-correlation-analysis"
+      },
+      {
+        "title": "Basics of estimation and confidence interval",
+        "slug": "basics-of-estimation-and-confidence-interval"
+      },
+      {
+        "title": "Testing of hypothesis (z-test",
+        "slug": "testing-of-hypothesis-z-test"
+      },
+      {
+        "title": "t-test)",
+        "slug": "t-test"
+      },
+      {
+        "title": "Statistical inference in decision making",
+        "slug": "statistical-inference-in-decision-making"
+      },
+      {
+        "title": "Quantitative reasoning exercises using statistical modeling",
+        "slug": "quantitative-reasoning-exercises-using-statistical-modeling"
+      }
+    ]
+  }
+}

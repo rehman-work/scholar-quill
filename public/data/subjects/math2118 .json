@@ -1,0 +1,228 @@
+{
+  "subject": {
+    "title": "Tools for Quantitative Reasoning",
+    "subjectCode": "MATH2118 ",
+    "topics": [
+      {
+        "title": "Introduction to HRM",
+        "slug": "introduction-to-hrm"
+      },
+      {
+        "title": "Role of HRM in the organization",
+        "slug": "role-of-hrm-in-the-organization"
+      },
+      {
+        "title": "HRM functions",
+        "slug": "hrm-functions"
+      },
+      {
+        "title": "Authorities of  HRM",
+        "slug": "authorities-of-hrm"
+      },
+      {
+        "title": "HRM and other business functions Emerging Human  resource management challenges: Trends in HRM",
+        "slug": "hrm-and-other-business-functions-emerging-human-resource-management-challenges-trends-in-hrm"
+      },
+      {
+        "title": "technology and  HRM practices",
+        "slug": "technology-and-hrm-practices"
+      },
+      {
+        "title": "global vs",
+        "slug": "global-vs"
+      },
+      {
+        "title": "local HRM practices",
+        "slug": "local-hrm-practices"
+      },
+      {
+        "title": "Legal issues and ethics related to HRM",
+        "slug": "legal-issues-and-ethics-related-to-hrm"
+      },
+      {
+        "title": "Job Analysis: Steps",
+        "slug": "job-analysis-steps"
+      },
+      {
+        "title": "Importance",
+        "slug": "importance"
+      },
+      {
+        "title": "Outcomes: Job description",
+        "slug": "outcomes-job-description"
+      },
+      {
+        "title": "job  specification",
+        "slug": "job-specification"
+      },
+      {
+        "title": "Competency based Job descriptions",
+        "slug": "competency-based-job-descriptions"
+      },
+      {
+        "title": "Human Resource Planning: Introduction to HRP",
+        "slug": "human-resource-planning-introduction-to-hrp"
+      },
+      {
+        "title": "Various  Methods of HRP Forecasting",
+        "slug": "various-methods-of-hrp-forecasting"
+      },
+      {
+        "title": "Recruitment",
+        "slug": "recruitment"
+      },
+      {
+        "title": "Internal and External",
+        "slug": "internal-and-external"
+      },
+      {
+        "title": "Sources of Recruitment",
+        "slug": "sources-of-recruitment"
+      },
+      {
+        "title": "Recruitment effectiveness",
+        "slug": "recruitment-effectiveness"
+      },
+      {
+        "title": "Job Application",
+        "slug": "job-application"
+      },
+      {
+        "title": "Job Ads",
+        "slug": "job-ads"
+      },
+      {
+        "title": "Employee Testing and Selection Importance of Testing & Selection",
+        "slug": "employee-testing-and-selection-importance-of-testing-and-selection"
+      },
+      {
+        "title": "The Basics of Testing And  Selecting Employees",
+        "slug": "the-basics-of-testing-and-selecting-employees"
+      },
+      {
+        "title": "Types of Tests",
+        "slug": "types-of-tests"
+      },
+      {
+        "title": "Background Investigations And Other Selection Methods",
+        "slug": "background-investigations-and-other-selection-methods"
+      },
+      {
+        "title": "Employee Testing and Selection Interviewing Candidates",
+        "slug": "employee-testing-and-selection-interviewing-candidates"
+      },
+      {
+        "title": "Errors That Can Undermine An Interviews  Usefulness",
+        "slug": "errors-that-can-undermine-an-interviews-usefulness"
+      },
+      {
+        "title": "How to Design And Conduct An Effective Interview",
+        "slug": "how-to-design-and-conduct-an-effective-interview"
+      },
+      {
+        "title": "Training and Development: Orientation and socializing",
+        "slug": "training-and-development-orientation-and-socializing"
+      },
+      {
+        "title": "orientation responsibility",
+        "slug": "orientation-responsibility"
+      },
+      {
+        "title": "orientation length timing",
+        "slug": "orientation-length-timing"
+      },
+      {
+        "title": "follow up  Training: Training definition",
+        "slug": "follow-up-training-training-definition"
+      },
+      {
+        "title": "steps in training process",
+        "slug": "steps-in-training-process"
+      },
+      {
+        "title": "Methods of training",
+        "slug": "methods-of-training"
+      },
+      {
+        "title": "On the job",
+        "slug": "on-the-job"
+      },
+      {
+        "title": "Off the Job",
+        "slug": "off-the-job"
+      },
+      {
+        "title": "Management Development Programs",
+        "slug": "management-development-programs"
+      },
+      {
+        "title": "Performance Management System",
+        "slug": "performance-management-system"
+      },
+      {
+        "title": "performance appraisal",
+        "slug": "performance-appraisal"
+      },
+      {
+        "title": "appraisal process",
+        "slug": "appraisal-process"
+      },
+      {
+        "title": "appraisal methods",
+        "slug": "appraisal-methods"
+      },
+      {
+        "title": "factors that may distort  performance appraisal",
+        "slug": "factors-that-may-distort-performance-appraisal"
+      },
+      {
+        "title": "Performance Appraisal Errors",
+        "slug": "performance-appraisal-errors"
+      },
+      {
+        "title": "Interviews",
+        "slug": "interviews"
+      },
+      {
+        "title": "Strategic Pay Plans",
+        "slug": "strategic-pay-plans"
+      },
+      {
+        "title": "Basic factors In Determining Pay Rates",
+        "slug": "basic-factors-in-determining-pay-rates"
+      },
+      {
+        "title": "Pay policies",
+        "slug": "pay-policies"
+      },
+      {
+        "title": "Strategic Pay  Plans",
+        "slug": "strategic-pay-plans"
+      },
+      {
+        "title": "Job Evaluation Methods",
+        "slug": "job-evaluation-methods"
+      },
+      {
+        "title": "Strategic Pay Plans",
+        "slug": "strategic-pay-plans"
+      },
+      {
+        "title": "Steps in  developing a competitive pay plan",
+        "slug": "steps-in-developing-a-competitive-pay-plan"
+      },
+      {
+        "title": "Rewards and Benefits Programs",
+        "slug": "rewards-and-benefits-programs"
+      },
+      {
+        "title": "HRIS and Analytical HR (Basic know how)",
+        "slug": "hris-and-analytical-hr-basic-know-how"
+      },
+      {
+        "title": "Final Project Presentations",
+        "slug": "final-project-presentations"
+      }
+    ]
+  }
+}

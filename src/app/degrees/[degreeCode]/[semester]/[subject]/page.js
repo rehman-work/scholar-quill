@@ -15,7 +15,7 @@ const SubjectPage = () => {
     // Fetch data from public folder
     const fetchData = async () => {
       try {
-        const res = await fetch(`/data/subjects/${subject}.json`);
+        const res = await fetch(`/data/subjects/${subject.toLowerCase()}.json`);
         const data = await res.json();
         setSubjectData(data.subject);
       } catch (error) {

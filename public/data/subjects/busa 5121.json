@@ -1,0 +1,264 @@
+{
+  "subject": {
+    "title": "Taxation Management",
+    "subjectCode": "BUSA 5121",
+    "topics": [
+      {
+        "title": "Income Tax Laws in Pakistan History of Income Tax Law",
+        "slug": "income-tax-laws-in-pakistan-history-of-income-tax-law"
+      },
+      {
+        "title": "Income Tax Ordinance",
+        "slug": "income-tax-ordinance"
+      },
+      {
+        "title": "Income Tax  Ordinance",
+        "slug": "income-tax-ordinance"
+      },
+      {
+        "title": "Scope of Income Tax Laws",
+        "slug": "scope-of-income-tax-laws"
+      },
+      {
+        "title": "Extent of Income Tax Ordinance",
+        "slug": "extent-of-income-tax-ordinance"
+      },
+      {
+        "title": "Components of Income Tax Law",
+        "slug": "components-of-income-tax-law"
+      },
+      {
+        "title": "Income Tax Ordinance",
+        "slug": "income-tax-ordinance"
+      },
+      {
+        "title": "Income Tax  Rules",
+        "slug": "income-tax-rules"
+      },
+      {
+        "title": "Notifications",
+        "slug": "notifications"
+      },
+      {
+        "title": "Circulars and Orders",
+        "slug": "circulars-and-orders"
+      },
+      {
+        "title": "Income Tax Case Law",
+        "slug": "income-tax-case-law"
+      },
+      {
+        "title": "Finance Act or  Ordinance",
+        "slug": "finance-act-or-ordinance"
+      },
+      {
+        "title": "Definitions of Terms (Section",
+        "slug": "definitions-of-terms-section"
+      },
+      {
+        "title": ") Importance and understanding of Income Tax terms/concepts/definitions",
+        "slug": "importance-and-understanding-of-income-tax-termsconceptsdefinitions"
+      },
+      {
+        "title": "All the definitions given under section",
+        "slug": "all-the-definitions-given-under-section"
+      },
+      {
+        "title": "of Income Tax Ordinance",
+        "slug": "of-income-tax-ordinance"
+      },
+      {
+        "title": "(updated) (",
+        "slug": "updated"
+      },
+      {
+        "title": "nd Schedule) Income Exempt from Tax (section",
+        "slug": "nd-schedule-income-exempt-from-tax-section"
+      },
+      {
+        "title": "to",
+        "slug": "to"
+      },
+      {
+        "title": ") Importance of understanding of Income Exempt from Tax",
+        "slug": "importance-of-understanding-of-income-exempt-from-tax"
+      },
+      {
+        "title": "Income Tax Exemptions given under section",
+        "slug": "income-tax-exemptions-given-under-section"
+      },
+      {
+        "title": "to",
+        "slug": "to"
+      },
+      {
+        "title": "of Income Tax Ordinance",
+        "slug": "of-income-tax-ordinance"
+      },
+      {
+        "title": "(updated)",
+        "slug": "updated"
+      },
+      {
+        "title": "Heads of Income- Income from Salary Overview of all the heads of income with examples",
+        "slug": "heads-of-income-income-from-salary-overview-of-all-the-heads-of-income-with-examples"
+      },
+      {
+        "title": "Understanding",
+        "slug": "understanding"
+      },
+      {
+        "title": "features and scope of  salary Income",
+        "slug": "features-and-scope-of-salary-income"
+      },
+      {
+        "title": "Minimum of Time Scale of Basic Salary",
+        "slug": "minimum-of-time-scale-of-basic-salary"
+      },
+      {
+        "title": "Basic Salary and Salary  concepts",
+        "slug": "basic-salary-and-salary-concepts"
+      },
+      {
+        "title": "Valuation of perquisites",
+        "slug": "valuation-of-perquisites"
+      },
+      {
+        "title": "allowances and benefits provided by an Employer  such as Accommodation",
+        "slug": "allowances-and-benefits-provided-by-an-employer-such-as-accommodation"
+      },
+      {
+        "title": "Conveyance",
+        "slug": "conveyance"
+      },
+      {
+        "title": "Medical Charges",
+        "slug": "medical-charges"
+      },
+      {
+        "title": "Hospital Charges or Medical  Allowance",
+        "slug": "hospital-charges-or-medical-allowance"
+      },
+      {
+        "title": "Loan to Employees",
+        "slug": "loan-to-employees"
+      },
+      {
+        "title": "Special Allowance",
+        "slug": "special-allowance"
+      },
+      {
+        "title": "Provident Fund etc",
+        "slug": "provident-fund-etc"
+      },
+      {
+        "title": "Computation of Salary Income",
+        "slug": "computation-of-salary-income"
+      },
+      {
+        "title": "Deductions from total Income",
+        "slug": "deductions-from-total-income"
+      },
+      {
+        "title": "Calculation of Gross Tax",
+        "slug": "calculation-of-gross-tax"
+      },
+      {
+        "title": "Block of Income under FTR",
+        "slug": "block-of-income-under-ftr"
+      },
+      {
+        "title": "Block of Income under separate block",
+        "slug": "block-of-income-under-separate-block"
+      },
+      {
+        "title": "Tax Credits",
+        "slug": "tax-credits"
+      },
+      {
+        "title": "Average Relief",
+        "slug": "average-relief"
+      },
+      {
+        "title": "Other Related Income and Numerical Demonstration of salaried  individuals",
+        "slug": "other-related-income-and-numerical-demonstration-of-salaried-individuals"
+      },
+      {
+        "title": "Computation of Income from Property Understanding the concept of Income from Property",
+        "slug": "computation-of-income-from-property-understanding-the-concept-of-income-from-property"
+      },
+      {
+        "title": "Concept and Calculation of Rent  Chargeable to Tax (RCT)",
+        "slug": "concept-and-calculation-of-rent-chargeable-to-tax-rct"
+      },
+      {
+        "title": "Admissible Deductions and Numerical Demonstration",
+        "slug": "admissible-deductions-and-numerical-demonstration"
+      },
+      {
+        "title": "Computation of Income from Business and Capital Gains Capital and revenue items",
+        "slug": "computation-of-income-from-business-and-capital-gains-capital-and-revenue-items"
+      },
+      {
+        "title": "Concept of income from capital gains",
+        "slug": "concept-of-income-from-capital-gains"
+      },
+      {
+        "title": "Computation of  capital gains",
+        "slug": "computation-of-capital-gains"
+      },
+      {
+        "title": "Deductions of capital losses",
+        "slug": "deductions-of-capital-losses"
+      },
+      {
+        "title": "Capital gains on disposal of securities",
+        "slug": "capital-gains-on-disposal-of-securities"
+      },
+      {
+        "title": "Exempt capital gain and numerical demonstration",
+        "slug": "exempt-capital-gain-and-numerical-demonstration"
+      },
+      {
+        "title": "Computation of Income from Other Sources Understanding the concept of Income from other sources",
+        "slug": "computation-of-income-from-other-sources-understanding-the-concept-of-income-from-other-sources"
+      },
+      {
+        "title": "Examples of Income from  other Sources",
+        "slug": "examples-of-income-from-other-sources"
+      },
+      {
+        "title": "Examples of Income",
+        "slug": "examples-of-income"
+      },
+      {
+        "title": "Profits and Gains not taxable under the particular  Heads Rather Treated as income from Other Sources",
+        "slug": "profits-and-gains-not-taxable-under-the-particular-heads-rather-treated-as-income-from-other-sources"
+      },
+      {
+        "title": "Admissible Deductions",
+        "slug": "admissible-deductions"
+      },
+      {
+        "title": "Income Tax Allied Topics",
+        "slug": "income-tax-allied-topics"
+      },
+      {
+        "title": "Sales Tax Income tax Authorities",
+        "slug": "sales-tax-income-tax-authorities"
+      },
+      {
+        "title": "Assessment Procedure",
+        "slug": "assessment-procedure"
+      },
+      {
+        "title": "Set Off and Carry Forward of losses",
+        "slug": "set-off-and-carry-forward-of-losses"
+      },
+      {
+        "title": "Appeals  etc",
+        "slug": "appeals-etc"
+      }
+    ]
+  }
+}
